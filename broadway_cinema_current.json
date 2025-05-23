@@ -1,0 +1,456 @@
+{
+  "cinema": "Broadway Kino Ramstein",
+  "location": "Merkurstraße 9, 66877 Ramstein",
+  "last_updated": "2025-05-22T21:58:42.109726",
+  "total_movies": 8,
+  "movies": [
+    {
+      "id": "film_116979",
+      "title": "Lilo & Stitch",
+      "director": "Dean Fleischer Camp",
+      "fsk": "PG",
+      "runtime": {},
+      "description": "Six-year-old Lilo Pelekai lives in Hawaii. What initially sounds like a paradise is anything but pleasant for the girl. She longs for a best friend more than anything else.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-05-22",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116979X10052025020848.jpg",
+      "showtimes": [
+        {
+          "date": "2025-05-22",
+          "time": "16:30",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-05-22*16:30:00"
+        },
+        {
+          "date": "2025-05-22",
+          "time": "17:45",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-22*17:45:00"
+        },
+        {
+          "date": "2025-05-22",
+          "time": "20:15",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-22*20:15:00"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "15:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-23*15:30:00"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "16:30",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-05-23*16:30:00"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "18:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-23*18:30:00"
+        },
+        {
+          "date": "2025-05-24",
+          "time": "14:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-05-24*14:00:00"
+        },
+        {
+          "date": "2025-05-24",
+          "time": "15:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-24*15:30:00"
+        },
+        {
+          "date": "2025-05-24",
+          "time": "16:30",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-05-24*16:30:00"
+        },
+        {
+          "date": "2025-05-24",
+          "time": "18:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-24*18:30:00"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "14:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-05-25*14:00:00"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "15:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-25*15:30:00"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "16:30",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-05-25*16:30:00"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "18:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-25*18:30:00"
+        },
+        {
+          "date": "2025-05-26",
+          "time": "14:00",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-26*14:00:00"
+        },
+        {
+          "date": "2025-05-26",
+          "time": "15:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-26*15:30:00"
+        },
+        {
+          "date": "2025-05-26",
+          "time": "17:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-05-26*17:00:00"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "16:30",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-05-28*16:30:00"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "18:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-28*18:30:00"
+        }
+      ],
+      "last_updated": "2025-05-22T21:58:42.109391"
+    },
+    {
+      "id": "film_92210",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "director": "Christopher McQuarrie",
+      "fsk": "PG-13",
+      "runtime": "170",
+      "description": "Direct continuation of Mission: Impossible - Dead Reckoning Part One and the eighth installment of the Mission: Impossible film series.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-05-21",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_92210X05052025131710.jpg",
+      "showtimes": [
+        {
+          "date": "2025-05-22",
+          "time": "16:45",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-05-22*16:45:00"
+        },
+        {
+          "date": "2025-05-22",
+          "time": "19:15",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-05-22*19:15:00"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "17:00",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-23*17:00:00"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "19:30",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-05-23*19:30:00"
+        },
+        {
+          "date": "2025-05-24",
+          "time": "14:45",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-05-24*14:45:00"
+        },
+        {
+          "date": "2025-05-24",
+          "time": "17:00",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-24*17:00:00"
+        },
+        {
+          "date": "2025-05-24",
+          "time": "19:30",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-05-24*19:30:00"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "14:45",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-05-25*14:45:00"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "17:00",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-25*17:00:00"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "19:30",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-05-25*19:30:00"
+        },
+        {
+          "date": "2025-05-26",
+          "time": "16:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-26*16:30:00"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "17:00",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-28*17:00:00"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "19:30",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-05-28*19:30:00"
+        }
+      ],
+      "last_updated": "2025-05-22T21:58:42.109391"
+    },
+    {
+      "id": "film_119730",
+      "title": "Final Destination: Bloodlines",
+      "director": "Zach Lipovsky|Adam B. Stein",
+      "fsk": "NC-17",
+      "runtime": "109",
+      "description": "Final Destination 6: Bloodlines is the title of the latest installment in the successful and gory film series by New Line Cinema.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-05-15",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_119730X11042025221423.jpg",
+      "showtimes": [
+        {
+          "date": "2025-05-22",
+          "time": "20:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-22*20:30:00"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "20:50",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-23*20:50:00"
+        },
+        {
+          "date": "2025-05-24",
+          "time": "20:50",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-24*20:50:00"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "20:50",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-25*20:50:00"
+        },
+        {
+          "date": "2025-05-26",
+          "time": "17:45",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-26*17:45:00"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "20:50",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-28*20:50:00"
+        }
+      ],
+      "last_updated": "2025-05-22T21:58:42.109391"
+    },
+    {
+      "id": "film_113992",
+      "title": "Thunderbolts - The New Avengers",
+      "director": "Jake Schreier",
+      "fsk": "PG-13",
+      "runtime": "126",
+      "description": "After Yelena BelovaBlack Widow, Alexei ShostakovRed Guardian, Antonia DreykovTaskmaster, John WalkerU.S. Agent, Ava StarrGhost, and Bucky BarnesWinter Soldier fall into a death trap set by Valentina Allegra de Fontaine, the hopeless misfits are forced to undertake a risky mission.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-05-01",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_113992X10042025111925.jpg",
+      "showtimes": [
+        {
+          "date": "2025-05-24",
+          "time": "20:20",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-24*20:20:00"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "20:20",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-25*20:20:00"
+        },
+        {
+          "date": "2025-05-26",
+          "time": "14:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-05-26*14:00:00"
+        },
+        {
+          "date": "2025-05-26",
+          "time": "16:45",
+          "hall": "The New Magic 4",
+          "booking_available_until": "2025-05-26*16:45:00"
+        }
+      ],
+      "last_updated": "2025-05-22T21:58:42.109391"
+    },
+    {
+      "id": "film_115951",
+      "title": "Sinners",
+      "director": "Ryan Coogler",
+      "fsk": "R",
+      "runtime": "138",
+      "description": "The Smoke twins, Elijah and Elias, both portrayed by Michael B. Jordan, want to make a fresh start on familiar ground. Therefore, they leave their previous lives behind and return to their old home in Mississippi.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-04-17",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_115951X19022025175638.jpg",
+      "showtimes": [
+        {
+          "date": "2025-05-24",
+          "time": "14:15",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-24*14:15:00"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "14:15",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-05-25*14:15:00"
+        },
+        {
+          "date": "2025-05-26",
+          "time": "17:15",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-05-26*17:15:00"
+        }
+      ],
+      "last_updated": "2025-05-22T21:58:42.109391"
+    },
+    {
+      "id": "film_117408",
+      "title": "The Accountant 2",
+      "director": "Gavin O´Connor",
+      "fsk": "R",
+      "runtime": "133",
+      "description": "Christian Wolff is capable of solving even the most challenging puzzles. This becomes crucial when one of his former companions is murdered.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-04-23",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_117408X11042025223025.jpg",
+      "showtimes": [
+        {
+          "date": "2025-05-26",
+          "time": "17:15",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-05-26*17:15:00"
+        }
+      ],
+      "last_updated": "2025-05-22T21:58:42.109391"
+    },
+    {
+      "id": "film_119908",
+      "title": "Warfare",
+      "director": "Ray Mendoza|Alex Garland",
+      "fsk": "R",
+      "runtime": "95",
+      "description": "On November 19, 2006, a team of young Navy Seals is sent to Iraq to occupy the house of a local family and secure an insurgent area.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-04-17",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_119908X11042025221550.jpg",
+      "showtimes": [
+        {
+          "date": "2025-05-26",
+          "time": "15:00",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-05-26*15:00:00"
+        }
+      ],
+      "last_updated": "2025-05-22T21:58:42.109391"
+    },
+    {
+      "id": "film_119151",
+      "title": "A Minecraft Movie",
+      "director": "Jared Hess",
+      "fsk": "PG-13",
+      "runtime": "101",
+      "description": "Welcome to the world of Minecraft, where creativity is not only helpful when designing, but even essential for survival! The four outsiders Garrett The Garbage Man Garrison, Henry, Natalie and Dawn struggle with very ordinary problems.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-04-03",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_119151X09032025124215.jpg",
+      "showtimes": [
+        {
+          "date": "2025-05-26",
+          "time": "14:45",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-05-26*14:45:00"
+        }
+      ],
+      "last_updated": "2025-05-22T21:58:42.109391"
+    }
+  ]
+}
