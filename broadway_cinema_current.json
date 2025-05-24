@@ -1,7 +1,7 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-05-23T12:45:56.162051",
+  "last_updated": "2025-05-24T08:00:57.815669",
   "total_movies": 8,
   "movies": [
     {
@@ -21,24 +21,6 @@
       "cinema_start_date": "2025-05-22",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116979X10052025020848.jpg",
       "showtimes": [
-        {
-          "date": "2025-05-23",
-          "time": "15:30",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-05-23*15:30:00"
-        },
-        {
-          "date": "2025-05-23",
-          "time": "16:30",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-05-23*16:30:00"
-        },
-        {
-          "date": "2025-05-23",
-          "time": "18:30",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-05-23*18:30:00"
-        },
         {
           "date": "2025-05-24",
           "time": "14:00",
@@ -118,7 +100,7 @@
           "booking_available_until": "2025-05-28*18:30:00"
         }
       ],
-      "last_updated": "2025-05-23T12:45:56.161704"
+      "last_updated": "2025-05-24T08:00:57.815391"
     },
     {
       "id": "film_92210",
@@ -126,7 +108,7 @@
       "director": "Christopher McQuarrie",
       "fsk": "PG-13",
       "runtime": "170",
-      "description": "Direct continuation of Mission: Impossible - Dead Reckoning Part One and the eighth installment of the Mission: Impossible film series.",
+      "description": "The race is not yet over: Ethan Hunt (Tom Cruise) and his team of the Impossible Mission Force (IMF) continue to face an overpowering, world-threatening artificial intelligence - known as the Entity.",
       "genre_markers": {
         "original_version": true,
         "thx": false,
@@ -137,18 +119,6 @@
       "cinema_start_date": "2025-05-21",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_92210X05052025131710.jpg",
       "showtimes": [
-        {
-          "date": "2025-05-23",
-          "time": "17:00",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-05-23*17:00:00"
-        },
-        {
-          "date": "2025-05-23",
-          "time": "19:30",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-05-23*19:30:00"
-        },
         {
           "date": "2025-05-24",
           "time": "14:45",
@@ -204,7 +174,7 @@
           "booking_available_until": "2025-05-28*19:30:00"
         }
       ],
-      "last_updated": "2025-05-23T12:45:56.161704"
+      "last_updated": "2025-05-24T08:00:57.815391"
     },
     {
       "id": "film_119730",
@@ -223,12 +193,6 @@
       "cinema_start_date": "2025-05-15",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_119730X11042025221423.jpg",
       "showtimes": [
-        {
-          "date": "2025-05-23",
-          "time": "20:50",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-05-23*20:50:00"
-        },
         {
           "date": "2025-05-24",
           "time": "20:50",
@@ -254,7 +218,7 @@
           "booking_available_until": "2025-05-28*20:50:00"
         }
       ],
-      "last_updated": "2025-05-23T12:45:56.161704"
+      "last_updated": "2025-05-24T08:00:57.815391"
     },
     {
       "id": "film_113992",
@@ -298,7 +262,7 @@
           "booking_available_until": "2025-05-26*16:45:00"
         }
       ],
-      "last_updated": "2025-05-23T12:45:56.161704"
+      "last_updated": "2025-05-24T08:00:57.815391"
     },
     {
       "id": "film_115951",
@@ -336,7 +300,7 @@
           "booking_available_until": "2025-05-26*17:15:00"
         }
       ],
-      "last_updated": "2025-05-23T12:45:56.161704"
+      "last_updated": "2025-05-24T08:00:57.815391"
     },
     {
       "id": "film_117408",
@@ -362,7 +326,7 @@
           "booking_available_until": "2025-05-26*17:15:00"
         }
       ],
-      "last_updated": "2025-05-23T12:45:56.161704"
+      "last_updated": "2025-05-24T08:00:57.815391"
     },
     {
       "id": "film_119908",
@@ -388,7 +352,7 @@
           "booking_available_until": "2025-05-26*15:00:00"
         }
       ],
-      "last_updated": "2025-05-23T12:45:56.161704"
+      "last_updated": "2025-05-24T08:00:57.815391"
     },
     {
       "id": "film_119151",
@@ -414,7 +378,7 @@
           "booking_available_until": "2025-05-26*14:45:00"
         }
       ],
-      "last_updated": "2025-05-23T12:45:56.161704"
+      "last_updated": "2025-05-24T08:00:57.815391"
     }
   ]
 }
