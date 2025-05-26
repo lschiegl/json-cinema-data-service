@@ -1,7 +1,7 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-05-25T08:00:59.547999",
+  "last_updated": "2025-05-26T08:00:01.099549",
   "total_movies": 8,
   "movies": [
     {
@@ -21,30 +21,6 @@
       "cinema_start_date": "2025-05-22",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116979X10052025020848.jpg",
       "showtimes": [
-        {
-          "date": "2025-05-25",
-          "time": "14:00",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-05-25*14:00:00"
-        },
-        {
-          "date": "2025-05-25",
-          "time": "15:30",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-05-25*15:30:00"
-        },
-        {
-          "date": "2025-05-25",
-          "time": "16:30",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-05-25*16:30:00"
-        },
-        {
-          "date": "2025-05-25",
-          "time": "18:30",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-05-25*18:30:00"
-        },
         {
           "date": "2025-05-26",
           "time": "14:00",
@@ -76,7 +52,7 @@
           "booking_available_until": "2025-05-28*18:30:00"
         }
       ],
-      "last_updated": "2025-05-25T08:00:59.547702"
+      "last_updated": "2025-05-26T08:00:01.099272"
     },
     {
       "id": "film_92210",
@@ -96,24 +72,6 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_92210X05052025131710.jpg",
       "showtimes": [
         {
-          "date": "2025-05-25",
-          "time": "14:45",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-05-25*14:45:00"
-        },
-        {
-          "date": "2025-05-25",
-          "time": "17:00",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-05-25*17:00:00"
-        },
-        {
-          "date": "2025-05-25",
-          "time": "19:30",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-05-25*19:30:00"
-        },
-        {
           "date": "2025-05-26",
           "time": "16:30",
           "hall": "Broadway Kino",
@@ -132,7 +90,7 @@
           "booking_available_until": "2025-05-28*19:30:00"
         }
       ],
-      "last_updated": "2025-05-25T08:00:59.547702"
+      "last_updated": "2025-05-26T08:00:01.099272"
     },
     {
       "id": "film_119730",
@@ -152,12 +110,6 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_119730X11042025221423.jpg",
       "showtimes": [
         {
-          "date": "2025-05-25",
-          "time": "20:50",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-05-25*20:50:00"
-        },
-        {
           "date": "2025-05-26",
           "time": "17:45",
           "hall": "Broadway Kino",
@@ -170,7 +122,7 @@
           "booking_available_until": "2025-05-28*20:50:00"
         }
       ],
-      "last_updated": "2025-05-25T08:00:59.547702"
+      "last_updated": "2025-05-26T08:00:01.099272"
     },
     {
       "id": "film_113992",
@@ -190,12 +142,6 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_113992X10042025111925.jpg",
       "showtimes": [
         {
-          "date": "2025-05-25",
-          "time": "20:20",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-05-25*20:20:00"
-        },
-        {
           "date": "2025-05-26",
           "time": "14:00",
           "hall": "The New Magic 6",
@@ -208,39 +154,7 @@
           "booking_available_until": "2025-05-26*16:45:00"
         }
       ],
-      "last_updated": "2025-05-25T08:00:59.547702"
-    },
-    {
-      "id": "film_115951",
-      "title": "Sinners",
-      "director": "Ryan Coogler",
-      "fsk": "R",
-      "runtime": "138",
-      "description": "The Smoke twins, Elijah and Elias, both portrayed by Michael B. Jordan, want to make a fresh start on familiar ground. Therefore, they leave their previous lives behind and return to their old home in Mississippi.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-04-17",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_115951X19022025175638.jpg",
-      "showtimes": [
-        {
-          "date": "2025-05-25",
-          "time": "14:15",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-05-25*14:15:00"
-        },
-        {
-          "date": "2025-05-26",
-          "time": "17:15",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-05-26*17:15:00"
-        }
-      ],
-      "last_updated": "2025-05-25T08:00:59.547702"
+      "last_updated": "2025-05-26T08:00:01.099272"
     },
     {
       "id": "film_117408",
@@ -266,7 +180,33 @@
           "booking_available_until": "2025-05-26*17:15:00"
         }
       ],
-      "last_updated": "2025-05-25T08:00:59.547702"
+      "last_updated": "2025-05-26T08:00:01.099272"
+    },
+    {
+      "id": "film_115951",
+      "title": "Sinners",
+      "director": "Ryan Coogler",
+      "fsk": "R",
+      "runtime": "138",
+      "description": "The Smoke twins, Elijah and Elias, both portrayed by Michael B. Jordan, want to make a fresh start on familiar ground. Therefore, they leave their previous lives behind and return to their old home in Mississippi.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-04-17",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_115951X19022025175638.jpg",
+      "showtimes": [
+        {
+          "date": "2025-05-26",
+          "time": "17:15",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-05-26*17:15:00"
+        }
+      ],
+      "last_updated": "2025-05-26T08:00:01.099272"
     },
     {
       "id": "film_119908",
@@ -292,7 +232,7 @@
           "booking_available_until": "2025-05-26*15:00:00"
         }
       ],
-      "last_updated": "2025-05-25T08:00:59.547702"
+      "last_updated": "2025-05-26T08:00:01.099272"
     },
     {
       "id": "film_119151",
@@ -318,7 +258,7 @@
           "booking_available_until": "2025-05-26*14:45:00"
         }
       ],
-      "last_updated": "2025-05-25T08:00:59.547702"
+      "last_updated": "2025-05-26T08:00:01.099272"
     }
   ]
 }
