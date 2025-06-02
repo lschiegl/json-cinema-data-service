@@ -1,167 +1,9 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-06-01T08:00:12.373826",
-  "total_movies": 5,
+  "last_updated": "2025-06-02T08:00:14.159345",
+  "total_movies": 4,
   "movies": [
-    {
-      "id": "film_109878",
-      "title": "Karate Kid: Legends",
-      "director": "Jonathan Entwistle",
-      "fsk": "PG-13",
-      "runtime": "94",
-      "description": "After a family tragedy, the talented Kung Fu prodigy Li Fong moves from Beijing to New York City. There, he struggles with adaptation difficulties and finds it hard to make connections.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-05-29",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_109878X21052025170843.jpg",
-      "showtimes": [
-        {
-          "date": "2025-06-01",
-          "time": "17:15",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-06-01*17:15:00"
-        },
-        {
-          "date": "2025-06-01",
-          "time": "19:00",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-06-01*19:00:00"
-        },
-        {
-          "date": "2025-06-04",
-          "time": "18:20",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-06-04*18:20:00"
-        }
-      ],
-      "last_updated": "2025-06-01T08:00:12.373661"
-    },
-    {
-      "id": "film_116979",
-      "title": "Lilo & Stitch",
-      "director": "Dean Fleischer Camp",
-      "fsk": "PG",
-      "runtime": {},
-      "description": "Six-year-old Lilo Pelekai lives in Hawaii. What initially sounds like a paradise is anything but pleasant for the girl. She longs for a best friend more than anything else.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-05-22",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116979X10052025020848.jpg",
-      "showtimes": [
-        {
-          "date": "2025-06-01",
-          "time": "14:00",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-06-01*14:00:00"
-        },
-        {
-          "date": "2025-06-01",
-          "time": "15:00",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-06-01*15:00:00"
-        },
-        {
-          "date": "2025-06-01",
-          "time": "16:30",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-06-01*16:30:00"
-        },
-        {
-          "date": "2025-06-01",
-          "time": "18:15",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-06-01*18:15:00"
-        },
-        {
-          "date": "2025-06-04",
-          "time": "16:30",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-06-04*16:30:00"
-        },
-        {
-          "date": "2025-06-04",
-          "time": "18:15",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-06-04*18:15:00"
-        }
-      ],
-      "last_updated": "2025-06-01T08:00:12.373661"
-    },
-    {
-      "id": "film_92210",
-      "title": "Mission: Impossible - The Final Reckoning",
-      "director": "Christopher McQuarrie",
-      "fsk": "PG-13",
-      "runtime": "170",
-      "description": "The race is not yet over: Ethan Hunt (Tom Cruise) and his team of the Impossible Mission Force (IMF) continue to face an overpowering, world-threatening artificial intelligence - known as the Entity.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-05-21",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_92210X05052025131710.jpg",
-      "showtimes": [
-        {
-          "date": "2025-06-01",
-          "time": "14:00",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-06-01*14:00:00"
-        },
-        {
-          "date": "2025-06-01",
-          "time": "19:45",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-06-01*19:45:00"
-        },
-        {
-          "date": "2025-06-04",
-          "time": "17:00",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-06-04*17:00:00"
-        }
-      ],
-      "last_updated": "2025-06-01T08:00:12.373661"
-    },
-    {
-      "id": "film_119730",
-      "title": "Final Destination: Bloodlines",
-      "director": "Zach Lipovsky|Adam B. Stein",
-      "fsk": "NC-17",
-      "runtime": "109",
-      "description": "Final Destination 6: Bloodlines is the title of the latest installment in the successful and gory film series by New Line Cinema.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-05-15",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_119730X11042025221423.jpg",
-      "showtimes": [
-        {
-          "date": "2025-06-01",
-          "time": "20:50",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-06-01*20:50:00"
-        }
-      ],
-      "last_updated": "2025-06-01T08:00:12.373661"
-    },
     {
       "id": "film_106901",
       "title": "Ballerina",
@@ -186,7 +28,91 @@
           "booking_available_until": "2025-06-04*20:30:00"
         }
       ],
-      "last_updated": "2025-06-01T08:00:12.373661"
+      "last_updated": "2025-06-02T08:00:14.159207"
+    },
+    {
+      "id": "film_109878",
+      "title": "Karate Kid: Legends",
+      "director": "Jonathan Entwistle",
+      "fsk": "PG-13",
+      "runtime": "94",
+      "description": "After a family tragedy, the talented Kung Fu prodigy Li Fong moves from Beijing to New York City. There, he struggles with adaptation difficulties and finds it hard to make connections.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-05-29",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_109878X21052025170843.jpg",
+      "showtimes": [
+        {
+          "date": "2025-06-04",
+          "time": "18:20",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-06-04*18:20:00"
+        }
+      ],
+      "last_updated": "2025-06-02T08:00:14.159207"
+    },
+    {
+      "id": "film_116979",
+      "title": "Lilo & Stitch",
+      "director": "Dean Fleischer Camp",
+      "fsk": "PG",
+      "runtime": {},
+      "description": "Six-year-old Lilo Pelekai lives in Hawaii. What initially sounds like a paradise is anything but pleasant for the girl. She longs for a best friend more than anything else.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-05-22",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116979X10052025020848.jpg",
+      "showtimes": [
+        {
+          "date": "2025-06-04",
+          "time": "16:30",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-06-04*16:30:00"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "18:15",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-04*18:15:00"
+        }
+      ],
+      "last_updated": "2025-06-02T08:00:14.159207"
+    },
+    {
+      "id": "film_92210",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "director": "Christopher McQuarrie",
+      "fsk": "PG-13",
+      "runtime": "170",
+      "description": "The race is not yet over: Ethan Hunt (Tom Cruise) and his team of the Impossible Mission Force (IMF) continue to face an overpowering, world-threatening artificial intelligence - known as the Entity.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-05-21",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_92210X05052025131710.jpg",
+      "showtimes": [
+        {
+          "date": "2025-06-04",
+          "time": "17:00",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-04*17:00:00"
+        }
+      ],
+      "last_updated": "2025-06-02T08:00:14.159207"
     }
   ]
 }
