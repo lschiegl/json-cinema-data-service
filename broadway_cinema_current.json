@@ -1,9 +1,41 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-06-02T08:00:14.159345",
-  "total_movies": 4,
+  "last_updated": "2025-06-03T08:00:15.952535",
+  "total_movies": 6,
   "movies": [
+    {
+      "id": "film_116656",
+      "title": "How to Train Your Dragon",
+      "director": "Dean DeBlois",
+      "fsk": "PG-13",
+      "runtime": "126",
+      "description": "On the rugged island of Berk, where a fierce rivalry between Vikings and dragons has existed for generations, Hiccup is considered an outsider.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-06-12",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116656X21052025171056.jpg",
+      "showtimes": [
+        {
+          "date": "2025-06-09",
+          "time": "18:00",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-06-09*18:00:00"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "19:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-11*19:30:00"
+        }
+      ],
+      "last_updated": "2025-06-03T08:00:15.952322"
+    },
     {
       "id": "film_106901",
       "title": "Ballerina",
@@ -19,16 +51,64 @@
         "4k": false
       },
       "cinema_start_date": "2025-06-05",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_106901X21052025152042.jpg",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_106901X02062025143347.jpg",
       "showtimes": [
         {
           "date": "2025-06-04",
           "time": "20:30",
           "hall": "Broadway Kino",
           "booking_available_until": "2025-06-04*20:30:00"
+        },
+        {
+          "date": "2025-06-05",
+          "time": "17:30",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-06-05*17:30:00"
+        },
+        {
+          "date": "2025-06-05",
+          "time": "19:30",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-06-05*19:30:00"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "20:15",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-06-06*20:15:00"
+        },
+        {
+          "date": "2025-06-07",
+          "time": "18:15",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-06-07*18:15:00"
+        },
+        {
+          "date": "2025-06-07",
+          "time": "20:15",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-06-07*20:15:00"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "20:15",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-06-08*20:15:00"
+        },
+        {
+          "date": "2025-06-09",
+          "time": "18:30",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-06-09*18:30:00"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "20:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-06-11*20:00:00"
         }
       ],
-      "last_updated": "2025-06-02T08:00:14.159207"
+      "last_updated": "2025-06-03T08:00:15.952322"
     },
     {
       "id": "film_109878",
@@ -52,16 +132,46 @@
           "time": "18:20",
           "hall": "The New Magic 3",
           "booking_available_until": "2025-06-04*18:20:00"
+        },
+        {
+          "date": "2025-06-05",
+          "time": "18:30",
+          "hall": "The New Magic 4",
+          "booking_available_until": "2025-06-05*18:30:00"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "18:45",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-06*18:45:00"
+        },
+        {
+          "date": "2025-06-07",
+          "time": "14:00",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-06-07*14:00:00"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "14:00",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-06-08*14:00:00"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "18:40",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-06-11*18:40:00"
         }
       ],
-      "last_updated": "2025-06-02T08:00:14.159207"
+      "last_updated": "2025-06-03T08:00:15.952322"
     },
     {
       "id": "film_116979",
       "title": "Lilo & Stitch",
       "director": "Dean Fleischer Camp",
       "fsk": "PG",
-      "runtime": {},
+      "runtime": "108",
       "description": "Six-year-old Lilo Pelekai lives in Hawaii. What initially sounds like a paradise is anything but pleasant for the girl. She longs for a best friend more than anything else.",
       "genre_markers": {
         "original_version": true,
@@ -84,9 +194,107 @@
           "time": "18:15",
           "hall": "Broadway Kino",
           "booking_available_until": "2025-06-04*18:15:00"
+        },
+        {
+          "date": "2025-06-05",
+          "time": "17:15",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-05*17:15:00"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "16:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-06*16:30:00"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "18:15",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-06-06*18:15:00"
+        },
+        {
+          "date": "2025-06-07",
+          "time": "14:15",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-07*14:15:00"
+        },
+        {
+          "date": "2025-06-07",
+          "time": "16:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-07*16:30:00"
+        },
+        {
+          "date": "2025-06-07",
+          "time": "17:45",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-07*17:45:00"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "14:15",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-08*14:15:00"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "16:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-08*16:30:00"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "17:45",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-08*17:45:00"
+        },
+        {
+          "date": "2025-06-09",
+          "time": "18:45",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-09*18:45:00"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "16:30",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-06-11*16:30:00"
         }
       ],
-      "last_updated": "2025-06-02T08:00:14.159207"
+      "last_updated": "2025-06-03T08:00:15.952322"
+    },
+    {
+      "id": "film_119730",
+      "title": "Final Destination: Bloodlines",
+      "director": "Zach Lipovsky|Adam B. Stein",
+      "fsk": "NC-17",
+      "runtime": "109",
+      "description": "Final Destination 6: Bloodlines is the title of the latest installment in the successful and gory film series by New Line Cinema.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-05-15",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_119730X11042025221423.jpg",
+      "showtimes": [
+        {
+          "date": "2025-06-05",
+          "time": "20:50",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-05*20:50:00"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "20:50",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-08*20:50:00"
+        }
+      ],
+      "last_updated": "2025-06-03T08:00:15.952322"
     },
     {
       "id": "film_92210",
@@ -110,9 +318,51 @@
           "time": "17:00",
           "hall": "Broadway Kino",
           "booking_available_until": "2025-06-04*17:00:00"
+        },
+        {
+          "date": "2025-06-05",
+          "time": "19:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-05*19:30:00"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "17:45",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-06*17:45:00"
+        },
+        {
+          "date": "2025-06-07",
+          "time": "14:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-06-07*14:00:00"
+        },
+        {
+          "date": "2025-06-07",
+          "time": "20:00",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-07*20:00:00"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "14:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-06-08*14:00:00"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "20:00",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-08*20:00:00"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "19:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-06-11*19:30:00"
         }
       ],
-      "last_updated": "2025-06-02T08:00:14.159207"
+      "last_updated": "2025-06-03T08:00:15.952322"
     }
   ]
 }
