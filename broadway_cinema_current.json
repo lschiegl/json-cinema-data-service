@@ -1,7 +1,7 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-06-03T08:00:15.952535",
+  "last_updated": "2025-06-04T08:00:17.723979",
   "total_movies": 6,
   "movies": [
     {
@@ -34,7 +34,7 @@
           "booking_available_until": "2025-06-11*19:30:00"
         }
       ],
-      "last_updated": "2025-06-03T08:00:15.952322"
+      "last_updated": "2025-06-04T08:00:17.723771"
     },
     {
       "id": "film_106901",
@@ -108,7 +108,7 @@
           "booking_available_until": "2025-06-11*20:00:00"
         }
       ],
-      "last_updated": "2025-06-03T08:00:15.952322"
+      "last_updated": "2025-06-04T08:00:17.723771"
     },
     {
       "id": "film_109878",
@@ -164,7 +164,7 @@
           "booking_available_until": "2025-06-11*18:40:00"
         }
       ],
-      "last_updated": "2025-06-03T08:00:15.952322"
+      "last_updated": "2025-06-04T08:00:17.723771"
     },
     {
       "id": "film_116979",
@@ -262,7 +262,7 @@
           "booking_available_until": "2025-06-11*16:30:00"
         }
       ],
-      "last_updated": "2025-06-03T08:00:15.952322"
+      "last_updated": "2025-06-04T08:00:17.723771"
     },
     {
       "id": "film_119730",
@@ -294,7 +294,7 @@
           "booking_available_until": "2025-06-08*20:50:00"
         }
       ],
-      "last_updated": "2025-06-03T08:00:15.952322"
+      "last_updated": "2025-06-04T08:00:17.723771"
     },
     {
       "id": "film_92210",
@@ -362,7 +362,7 @@
           "booking_available_until": "2025-06-11*19:30:00"
         }
       ],
-      "last_updated": "2025-06-03T08:00:15.952322"
+      "last_updated": "2025-06-04T08:00:17.723771"
     }
   ]
 }
