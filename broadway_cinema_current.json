@@ -1,7 +1,7 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-06-06T08:00:20.922786",
+  "last_updated": "2025-06-07T08:00:22.513958",
   "total_movies": 6,
   "movies": [
     {
@@ -21,12 +21,6 @@
       "cinema_start_date": "2025-06-05",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_106901X02062025143347.jpg",
       "showtimes": [
-        {
-          "date": "2025-06-06",
-          "time": "20:15",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-06-06*20:15:00"
-        },
         {
           "date": "2025-06-07",
           "time": "18:15",
@@ -58,7 +52,7 @@
           "booking_available_until": "2025-06-11*20:00:00"
         }
       ],
-      "last_updated": "2025-06-06T08:00:20.922598"
+      "last_updated": "2025-06-07T08:00:22.513781"
     },
     {
       "id": "film_109878",
@@ -78,12 +72,6 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_109878X21052025170843.jpg",
       "showtimes": [
         {
-          "date": "2025-06-06",
-          "time": "18:45",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-06-06*18:45:00"
-        },
-        {
           "date": "2025-06-07",
           "time": "14:00",
           "hall": "The New Magic 3",
@@ -102,7 +90,7 @@
           "booking_available_until": "2025-06-11*18:40:00"
         }
       ],
-      "last_updated": "2025-06-06T08:00:20.922598"
+      "last_updated": "2025-06-07T08:00:22.513781"
     },
     {
       "id": "film_116979",
@@ -121,18 +109,6 @@
       "cinema_start_date": "2025-05-22",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116979X10052025020848.jpg",
       "showtimes": [
-        {
-          "date": "2025-06-06",
-          "time": "16:30",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-06-06*16:30:00"
-        },
-        {
-          "date": "2025-06-06",
-          "time": "18:15",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-06-06*18:15:00"
-        },
         {
           "date": "2025-06-07",
           "time": "14:15",
@@ -182,7 +158,7 @@
           "booking_available_until": "2025-06-11*16:30:00"
         }
       ],
-      "last_updated": "2025-06-06T08:00:20.922598"
+      "last_updated": "2025-06-07T08:00:22.513781"
     },
     {
       "id": "film_92210",
@@ -201,12 +177,6 @@
       "cinema_start_date": "2025-05-21",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_92210X05052025131710.jpg",
       "showtimes": [
-        {
-          "date": "2025-06-06",
-          "time": "17:45",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-06-06*17:45:00"
-        },
         {
           "date": "2025-06-07",
           "time": "14:00",
@@ -238,7 +208,7 @@
           "booking_available_until": "2025-06-11*19:30:00"
         }
       ],
-      "last_updated": "2025-06-06T08:00:20.922598"
+      "last_updated": "2025-06-07T08:00:22.513781"
     },
     {
       "id": "film_119730",
@@ -264,7 +234,7 @@
           "booking_available_until": "2025-06-08*20:50:00"
         }
       ],
-      "last_updated": "2025-06-06T08:00:20.922598"
+      "last_updated": "2025-06-07T08:00:22.513781"
     },
     {
       "id": "film_116656",
@@ -296,7 +266,7 @@
           "booking_available_until": "2025-06-11*19:30:00"
         }
       ],
-      "last_updated": "2025-06-06T08:00:20.922598"
+      "last_updated": "2025-06-07T08:00:22.513781"
     }
   ]
 }
