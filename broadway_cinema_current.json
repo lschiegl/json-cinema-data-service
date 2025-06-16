@@ -1,8 +1,8 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-06-15T08:00:35.743767",
-  "total_movies": 6,
+  "last_updated": "2025-06-16T08:00:37.381088",
+  "total_movies": 4,
   "movies": [
     {
       "id": "film_116656",
@@ -22,24 +22,6 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116656X21052025171056.jpg",
       "showtimes": [
         {
-          "date": "2025-06-15",
-          "time": "14:45",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-06-15*14:45:00"
-        },
-        {
-          "date": "2025-06-15",
-          "time": "17:45",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-06-15*17:45:00"
-        },
-        {
-          "date": "2025-06-15",
-          "time": "20:30",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-06-15*20:30:00"
-        },
-        {
           "date": "2025-06-18",
           "time": "18:00",
           "hall": "The New Magic 6",
@@ -52,7 +34,7 @@
           "booking_available_until": "2025-06-18*20:30:00"
         }
       ],
-      "last_updated": "2025-06-15T08:00:35.743595"
+      "last_updated": "2025-06-16T08:00:37.380950"
     },
     {
       "id": "film_106901",
@@ -72,45 +54,13 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_106901X02062025143347.jpg",
       "showtimes": [
         {
-          "date": "2025-06-15",
-          "time": "20:45",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-06-15*20:45:00"
-        },
-        {
           "date": "2025-06-18",
           "time": "20:30",
           "hall": "The New Magic 5",
           "booking_available_until": "2025-06-18*20:30:00"
         }
       ],
-      "last_updated": "2025-06-15T08:00:35.743595"
-    },
-    {
-      "id": "film_109878",
-      "title": "Karate Kid: Legends",
-      "director": "Jonathan Entwistle",
-      "fsk": "PG-13",
-      "runtime": "94",
-      "description": "After a family tragedy, the talented Kung Fu prodigy Li Fong moves from Beijing to New York City. There, he struggles with adaptation difficulties and finds it hard to make connections.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-05-29",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_109878X21052025170843.jpg",
-      "showtimes": [
-        {
-          "date": "2025-06-15",
-          "time": "14:00",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-06-15*14:00:00"
-        }
-      ],
-      "last_updated": "2025-06-15T08:00:35.743595"
+      "last_updated": "2025-06-16T08:00:37.380950"
     },
     {
       "id": "film_116979",
@@ -130,25 +80,13 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116979X10052025020848.jpg",
       "showtimes": [
         {
-          "date": "2025-06-15",
-          "time": "14:00",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-06-15*14:00:00"
-        },
-        {
-          "date": "2025-06-15",
-          "time": "17:30",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-06-15*17:30:00"
-        },
-        {
           "date": "2025-06-18",
           "time": "16:40",
           "hall": "The New Magic 5",
           "booking_available_until": "2025-06-18*16:40:00"
         }
       ],
-      "last_updated": "2025-06-15T08:00:35.743595"
+      "last_updated": "2025-06-16T08:00:37.380950"
     },
     {
       "id": "film_92210",
@@ -168,45 +106,13 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_92210X05052025131710.jpg",
       "showtimes": [
         {
-          "date": "2025-06-15",
-          "time": "16:45",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-06-15*16:45:00"
-        },
-        {
           "date": "2025-06-18",
           "time": "16:45",
           "hall": "Broadway Kino",
           "booking_available_until": "2025-06-18*16:45:00"
         }
       ],
-      "last_updated": "2025-06-15T08:00:35.743595"
-    },
-    {
-      "id": "film_119730",
-      "title": "Final Destination: Bloodlines",
-      "director": "Zach Lipovsky|Adam B. Stein",
-      "fsk": "NC-17",
-      "runtime": "109",
-      "description": "Final Destination 6: Bloodlines is the title of the latest installment in the successful and gory film series by New Line Cinema.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-05-15",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_119730X11042025221423.jpg",
-      "showtimes": [
-        {
-          "date": "2025-06-15",
-          "time": "20:50",
-          "hall": "The New Magic 4",
-          "booking_available_until": "2025-06-15*20:50:00"
-        }
-      ],
-      "last_updated": "2025-06-15T08:00:35.743595"
+      "last_updated": "2025-06-16T08:00:37.380950"
     }
   ]
 }
