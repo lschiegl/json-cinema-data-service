@@ -1,8 +1,8 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-06-21T08:00:46.088955",
-  "total_movies": 11,
+  "last_updated": "2025-06-22T08:00:48.025682",
+  "total_movies": 10,
   "movies": [
     {
       "id": "film_116999",
@@ -28,7 +28,7 @@
           "booking_available_until": "2025-07-09*19:40:00"
         }
       ],
-      "last_updated": "2025-06-21T08:00:46.088638"
+      "last_updated": "2025-06-22T08:00:48.025453"
     },
     {
       "id": "film_116995",
@@ -60,7 +60,7 @@
           "booking_available_until": "2025-07-02*20:30:00"
         }
       ],
-      "last_updated": "2025-06-21T08:00:46.088638"
+      "last_updated": "2025-06-22T08:00:48.025453"
     },
     {
       "id": "film_109880",
@@ -104,7 +104,7 @@
           "booking_available_until": "2025-07-02*18:20:00"
         }
       ],
-      "last_updated": "2025-06-21T08:00:46.088638"
+      "last_updated": "2025-06-22T08:00:48.025453"
     },
     {
       "id": "film_115577",
@@ -172,7 +172,7 @@
           "booking_available_until": "2025-07-02*17:00:00"
         }
       ],
-      "last_updated": "2025-06-21T08:00:46.088638"
+      "last_updated": "2025-06-22T08:00:48.025453"
     },
     {
       "id": "film_115578",
@@ -191,12 +191,6 @@
       "cinema_start_date": "2025-06-19",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_115578X15062025190216.jpg",
       "showtimes": [
-        {
-          "date": "2025-06-21",
-          "time": "18:30",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-06-21*18:30:00"
-        },
         {
           "date": "2025-06-22",
           "time": "18:10",
@@ -240,7 +234,7 @@
           "booking_available_until": "2025-07-02*19:00:00"
         }
       ],
-      "last_updated": "2025-06-21T08:00:46.088638"
+      "last_updated": "2025-06-22T08:00:48.025453"
     },
     {
       "id": "film_109309",
@@ -259,24 +253,6 @@
       "cinema_start_date": "2025-06-19",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_109309X26042025195618.jpg",
       "showtimes": [
-        {
-          "date": "2025-06-21",
-          "time": "13:45",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-06-21*13:45:00"
-        },
-        {
-          "date": "2025-06-21",
-          "time": "16:10",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-06-21*16:10:00"
-        },
-        {
-          "date": "2025-06-21",
-          "time": "18:30",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-06-21*18:30:00"
-        },
         {
           "date": "2025-06-22",
           "time": "13:45",
@@ -326,7 +302,7 @@
           "booking_available_until": "2025-07-02*17:00:00"
         }
       ],
-      "last_updated": "2025-06-21T08:00:46.088638"
+      "last_updated": "2025-06-22T08:00:48.025453"
     },
     {
       "id": "film_116656",
@@ -345,24 +321,6 @@
       "cinema_start_date": "2025-06-12",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116656X21052025171056.jpg",
       "showtimes": [
-        {
-          "date": "2025-06-21",
-          "time": "14:30",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-06-21*14:30:00"
-        },
-        {
-          "date": "2025-06-21",
-          "time": "16:00",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-06-21*16:00:00"
-        },
-        {
-          "date": "2025-06-21",
-          "time": "20:30",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-06-21*20:30:00"
-        },
         {
           "date": "2025-06-22",
           "time": "14:30",
@@ -424,7 +382,7 @@
           "booking_available_until": "2025-06-29*18:10:00"
         }
       ],
-      "last_updated": "2025-06-21T08:00:46.088638"
+      "last_updated": "2025-06-22T08:00:48.025453"
     },
     {
       "id": "film_106901",
@@ -444,12 +402,6 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_106901X02062025143347.jpg",
       "showtimes": [
         {
-          "date": "2025-06-21",
-          "time": "18:15",
-          "hall": "The New Magic 4",
-          "booking_available_until": "2025-06-21*18:15:00"
-        },
-        {
           "date": "2025-06-22",
           "time": "18:20",
           "hall": "The New Magic 4",
@@ -468,33 +420,7 @@
           "booking_available_until": "2025-06-29*18:00:00"
         }
       ],
-      "last_updated": "2025-06-21T08:00:46.088638"
-    },
-    {
-      "id": "film_109878",
-      "title": "Karate Kid: Legends",
-      "director": "Jonathan Entwistle",
-      "fsk": "PG-13",
-      "runtime": "94",
-      "description": "After a family tragedy, the talented Kung Fu prodigy Li Fong moves from Beijing to New York City. There, he struggles with adaptation difficulties and finds it hard to make connections.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-05-29",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_109878X21052025170843.jpg",
-      "showtimes": [
-        {
-          "date": "2025-06-21",
-          "time": "16:30",
-          "hall": "The New Magic 4",
-          "booking_available_until": "2025-06-21*16:30:00"
-        }
-      ],
-      "last_updated": "2025-06-21T08:00:46.088638"
+      "last_updated": "2025-06-22T08:00:48.025453"
     },
     {
       "id": "film_116979",
@@ -514,12 +440,6 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116979X10052025020848.jpg",
       "showtimes": [
         {
-          "date": "2025-06-21",
-          "time": "15:00",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-06-21*15:00:00"
-        },
-        {
           "date": "2025-06-22",
           "time": "16:00",
           "hall": "Broadway Kino",
@@ -538,7 +458,7 @@
           "booking_available_until": "2025-06-29*16:30:00"
         }
       ],
-      "last_updated": "2025-06-21T08:00:46.088638"
+      "last_updated": "2025-06-22T08:00:48.025453"
     },
     {
       "id": "film_92210",
@@ -570,7 +490,7 @@
           "booking_available_until": "2025-06-29*17:40:00"
         }
       ],
-      "last_updated": "2025-06-21T08:00:46.088638"
+      "last_updated": "2025-06-22T08:00:48.025453"
     }
   ]
 }
