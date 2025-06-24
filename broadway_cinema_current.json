@@ -1,7 +1,7 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-06-23T08:00:50.097272",
+  "last_updated": "2025-06-24T08:00:51.954142",
   "total_movies": 10,
   "movies": [
     {
@@ -28,14 +28,14 @@
           "booking_available_until": "2025-07-09*19:40:00"
         }
       ],
-      "last_updated": "2025-06-23T08:00:50.097060"
+      "last_updated": "2025-06-24T08:00:51.953916"
     },
     {
       "id": "film_116995",
       "title": "Jurassic World Rebirth",
       "director": "Gareth Edwards (V)",
-      "fsk": {},
-      "runtime": {},
+      "fsk": "PG-13",
+      "runtime": "134",
       "description": "Five years after the events on Isla Nublar, dinosaurs and humans live in a fragile coexistence. However, the planet´s drastic ecological changes increasingly force the prehistoric creatures to retreat to isolated equatorial regions.",
       "genre_markers": {
         "original_version": true,
@@ -60,15 +60,15 @@
           "booking_available_until": "2025-07-02*20:30:00"
         }
       ],
-      "last_updated": "2025-06-23T08:00:50.097060"
+      "last_updated": "2025-06-24T08:00:51.953916"
     },
     {
       "id": "film_109880",
       "title": "M3GAN 2.0",
       "director": "Gerard Johnstone",
-      "fsk": {},
+      "fsk": "R",
       "runtime": "120",
-      "description": "In the finale of M3GAN, the body of the murderous doll was destroyed, but her spirit might still exist and cause havoc. The end of the film suggests that M3GAN has uploaded herself into an improved version.",
+      "description": "Two years after the devastating incident involving the AI M3GAN, its creator Gemma (Allison Williams) has established herself as an author and is fighting for stricter AI regulation.",
       "genre_markers": {
         "original_version": true,
         "thx": false,
@@ -77,7 +77,7 @@
         "4k": false
       },
       "cinema_start_date": "2025-06-26",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_109880X02062025131410.jpg",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_109880X23062025180557.jpg",
       "showtimes": [
         {
           "date": "2025-06-27",
@@ -104,7 +104,7 @@
           "booking_available_until": "2025-07-02*18:20:00"
         }
       ],
-      "last_updated": "2025-06-23T08:00:50.097060"
+      "last_updated": "2025-06-24T08:00:51.953916"
     },
     {
       "id": "film_115577",
@@ -112,7 +112,7 @@
       "director": "Joseph Kosinski",
       "fsk": "PG-13",
       "runtime": "155",
-      "description": "In F1 from Apple Original Films, Brad Pitt takes on the role of a former racing driver who returns to Formula 1. Damson Idris plays the role of his teammate at the fictional racing team APXGP.",
+      "description": "In the 1990s, Sonny Hayes was regarded as the next big talent in racing, especially in Formula 1. However, racing also involves exposing one´s body to great risks, and one must prepare for the worst.",
       "genre_markers": {
         "original_version": true,
         "thx": false,
@@ -121,7 +121,7 @@
         "4k": false
       },
       "cinema_start_date": "2025-06-26",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_115577X15062025190729.jpg",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_115577X23062025180415.jpg",
       "showtimes": [
         {
           "date": "2025-06-25",
@@ -172,7 +172,7 @@
           "booking_available_until": "2025-07-02*17:00:00"
         }
       ],
-      "last_updated": "2025-06-23T08:00:50.097060"
+      "last_updated": "2025-06-24T08:00:51.953916"
     },
     {
       "id": "film_115578",
@@ -228,7 +228,7 @@
           "booking_available_until": "2025-07-02*19:00:00"
         }
       ],
-      "last_updated": "2025-06-23T08:00:50.097060"
+      "last_updated": "2025-06-24T08:00:51.953916"
     },
     {
       "id": "film_109309",
@@ -278,7 +278,7 @@
           "booking_available_until": "2025-07-02*17:00:00"
         }
       ],
-      "last_updated": "2025-06-23T08:00:50.097060"
+      "last_updated": "2025-06-24T08:00:51.953916"
     },
     {
       "id": "film_116656",
@@ -340,7 +340,7 @@
           "booking_available_until": "2025-06-29*18:10:00"
         }
       ],
-      "last_updated": "2025-06-23T08:00:50.097060"
+      "last_updated": "2025-06-24T08:00:51.953916"
     },
     {
       "id": "film_106901",
@@ -372,7 +372,7 @@
           "booking_available_until": "2025-06-29*18:00:00"
         }
       ],
-      "last_updated": "2025-06-23T08:00:50.097060"
+      "last_updated": "2025-06-24T08:00:51.953916"
     },
     {
       "id": "film_116979",
@@ -404,7 +404,7 @@
           "booking_available_until": "2025-06-29*16:30:00"
         }
       ],
-      "last_updated": "2025-06-23T08:00:50.097060"
+      "last_updated": "2025-06-24T08:00:51.953916"
     },
     {
       "id": "film_92210",
@@ -430,7 +430,7 @@
           "booking_available_until": "2025-06-29*17:40:00"
         }
       ],
-      "last_updated": "2025-06-23T08:00:50.097060"
+      "last_updated": "2025-06-24T08:00:51.953916"
     }
   ]
 }
