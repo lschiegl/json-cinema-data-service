@@ -1,111 +1,9 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-06-25T08:00:53.813800",
+  "last_updated": "2025-06-26T08:00:55.635421",
   "total_movies": 10,
   "movies": [
-    {
-      "id": "film_116999",
-      "title": "Superman",
-      "director": "James Gunn",
-      "fsk": {},
-      "runtime": "129",
-      "description": "The Superman is active in Metropolis as a superhero and works as reporter Clark Kent at the Daily Planet. There, he knows Lois Lane, who is the only one aware of his secret identity.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-07-10",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116999X18062025112426.jpg",
-      "showtimes": [
-        {
-          "date": "2025-07-09",
-          "time": "19:40",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-09*19:40:00"
-        }
-      ],
-      "last_updated": "2025-06-25T08:00:53.813584"
-    },
-    {
-      "id": "film_116995",
-      "title": "Jurassic World Rebirth",
-      "director": "Gareth Edwards (V)",
-      "fsk": "PG-13",
-      "runtime": "134",
-      "description": "Five years after the events on Isla Nublar, dinosaurs and humans live in a fragile coexistence. However, the planet´s drastic ecological changes increasingly force the prehistoric creatures to retreat to isolated equatorial regions.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-07-02",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116995X10062025114011.jpg",
-      "showtimes": [
-        {
-          "date": "2025-07-02",
-          "time": "17:00",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-02*17:00:00"
-        },
-        {
-          "date": "2025-07-02",
-          "time": "20:30",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-02*20:30:00"
-        }
-      ],
-      "last_updated": "2025-06-25T08:00:53.813584"
-    },
-    {
-      "id": "film_109880",
-      "title": "M3GAN 2.0",
-      "director": "Gerard Johnstone",
-      "fsk": "R",
-      "runtime": "120",
-      "description": "Two years after the devastating incident involving the AI M3GAN, its creator Gemma (Allison Williams) has established herself as an author and is fighting for stricter AI regulation.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-06-26",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_109880X23062025180557.jpg",
-      "showtimes": [
-        {
-          "date": "2025-06-27",
-          "time": "20:50",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-06-27*20:50:00"
-        },
-        {
-          "date": "2025-06-28",
-          "time": "20:50",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-06-28*20:50:00"
-        },
-        {
-          "date": "2025-06-29",
-          "time": "20:50",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-06-29*20:50:00"
-        },
-        {
-          "date": "2025-07-02",
-          "time": "18:20",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-07-02*18:20:00"
-        }
-      ],
-      "last_updated": "2025-06-25T08:00:53.813584"
-    },
     {
       "id": "film_115577",
       "title": "F1",
@@ -123,12 +21,6 @@
       "cinema_start_date": "2025-06-26",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_115577X23062025180415.jpg",
       "showtimes": [
-        {
-          "date": "2025-06-25",
-          "time": "19:30",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-06-25*19:30:00"
-        },
         {
           "date": "2025-06-26",
           "time": "20:00",
@@ -172,7 +64,7 @@
           "booking_available_until": "2025-07-02*17:00:00"
         }
       ],
-      "last_updated": "2025-06-25T08:00:53.813584"
+      "last_updated": "2025-06-26T08:00:55.635214"
     },
     {
       "id": "film_115578",
@@ -191,12 +83,6 @@
       "cinema_start_date": "2025-06-19",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_115578X15062025190216.jpg",
       "showtimes": [
-        {
-          "date": "2025-06-25",
-          "time": "18:30",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-06-25*18:30:00"
-        },
         {
           "date": "2025-06-26",
           "time": "18:30",
@@ -228,7 +114,7 @@
           "booking_available_until": "2025-07-02*19:00:00"
         }
       ],
-      "last_updated": "2025-06-25T08:00:53.813584"
+      "last_updated": "2025-06-26T08:00:55.635214"
     },
     {
       "id": "film_109309",
@@ -278,7 +164,7 @@
           "booking_available_until": "2025-07-02*17:00:00"
         }
       ],
-      "last_updated": "2025-06-25T08:00:53.813584"
+      "last_updated": "2025-06-26T08:00:55.635214"
     },
     {
       "id": "film_116656",
@@ -297,12 +183,6 @@
       "cinema_start_date": "2025-06-12",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116656X21052025171056.jpg",
       "showtimes": [
-        {
-          "date": "2025-06-25",
-          "time": "16:30",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-06-25*16:30:00"
-        },
         {
           "date": "2025-06-26",
           "time": "18:30",
@@ -340,15 +220,15 @@
           "booking_available_until": "2025-06-29*18:10:00"
         }
       ],
-      "last_updated": "2025-06-25T08:00:53.813584"
+      "last_updated": "2025-06-26T08:00:55.635214"
     },
     {
-      "id": "film_106901",
-      "title": "Ballerina",
-      "director": "Len Wiseman",
-      "fsk": "NC-17",
-      "runtime": "125",
-      "description": "She is young, deadly, and out for revenge: The film Ballerina is about a woman who trains to become an assassin. She is looking for those responsible for killing her family.",
+      "id": "film_109880",
+      "title": "M3GAN 2.0",
+      "director": "Gerard Johnstone",
+      "fsk": "R",
+      "runtime": "120",
+      "description": "Two years after the devastating incident involving the AI M3GAN, its creator Gemma (Allison Williams) has established herself as an author and is fighting for stricter AI regulation.",
       "genre_markers": {
         "original_version": true,
         "thx": false,
@@ -356,23 +236,35 @@
         "3d": false,
         "4k": false
       },
-      "cinema_start_date": "2025-06-05",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_106901X02062025143347.jpg",
+      "cinema_start_date": "2025-06-26",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_109880X23062025180557.jpg",
       "showtimes": [
         {
-          "date": "2025-06-25",
-          "time": "18:00",
-          "hall": "The New Magic 4",
-          "booking_available_until": "2025-06-25*18:00:00"
+          "date": "2025-06-27",
+          "time": "20:50",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-06-27*20:50:00"
+        },
+        {
+          "date": "2025-06-28",
+          "time": "20:50",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-06-28*20:50:00"
         },
         {
           "date": "2025-06-29",
-          "time": "18:00",
-          "hall": "The New Magic 4",
-          "booking_available_until": "2025-06-29*18:00:00"
+          "time": "20:50",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-06-29*20:50:00"
+        },
+        {
+          "date": "2025-07-02",
+          "time": "18:20",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-07-02*18:20:00"
         }
       ],
-      "last_updated": "2025-06-25T08:00:53.813584"
+      "last_updated": "2025-06-26T08:00:55.635214"
     },
     {
       "id": "film_116979",
@@ -404,7 +296,33 @@
           "booking_available_until": "2025-06-29*16:30:00"
         }
       ],
-      "last_updated": "2025-06-25T08:00:53.813584"
+      "last_updated": "2025-06-26T08:00:55.635214"
+    },
+    {
+      "id": "film_106901",
+      "title": "Ballerina",
+      "director": "Len Wiseman",
+      "fsk": "NC-17",
+      "runtime": "125",
+      "description": "She is young, deadly, and out for revenge: The film Ballerina is about a woman who trains to become an assassin. She is looking for those responsible for killing her family.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-06-05",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_106901X02062025143347.jpg",
+      "showtimes": [
+        {
+          "date": "2025-06-29",
+          "time": "18:00",
+          "hall": "The New Magic 4",
+          "booking_available_until": "2025-06-29*18:00:00"
+        }
+      ],
+      "last_updated": "2025-06-26T08:00:55.635214"
     },
     {
       "id": "film_92210",
@@ -430,7 +348,65 @@
           "booking_available_until": "2025-06-29*17:40:00"
         }
       ],
-      "last_updated": "2025-06-25T08:00:53.813584"
+      "last_updated": "2025-06-26T08:00:55.635214"
+    },
+    {
+      "id": "film_116995",
+      "title": "Jurassic World Rebirth",
+      "director": "Gareth Edwards (V)",
+      "fsk": "PG-13",
+      "runtime": "134",
+      "description": "Five years after the events on Isla Nublar, dinosaurs and humans live in a fragile coexistence. However, the planet´s drastic ecological changes increasingly force the prehistoric creatures to retreat to isolated equatorial regions.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-07-02",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116995X10062025114011.jpg",
+      "showtimes": [
+        {
+          "date": "2025-07-02",
+          "time": "17:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-02*17:00:00"
+        },
+        {
+          "date": "2025-07-02",
+          "time": "20:30",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-02*20:30:00"
+        }
+      ],
+      "last_updated": "2025-06-26T08:00:55.635214"
+    },
+    {
+      "id": "film_116999",
+      "title": "Superman",
+      "director": "James Gunn",
+      "fsk": {},
+      "runtime": "129",
+      "description": "The Superman is active in Metropolis as a superhero and works as reporter Clark Kent at the Daily Planet. There, he knows Lois Lane, who is the only one aware of his secret identity.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-07-10",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116999X18062025112426.jpg",
+      "showtimes": [
+        {
+          "date": "2025-07-09",
+          "time": "19:40",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-09*19:40:00"
+        }
+      ],
+      "last_updated": "2025-06-26T08:00:55.635214"
     }
   ]
 }
