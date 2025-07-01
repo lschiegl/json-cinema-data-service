@@ -1,8 +1,8 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-06-30T08:00:03.680043",
-  "total_movies": 6,
+  "last_updated": "2025-07-01T08:00:05.643282",
+  "total_movies": 8,
   "movies": [
     {
       "id": "film_116995",
@@ -32,9 +32,119 @@
           "time": "20:30",
           "hall": "The New Magic 6",
           "booking_available_until": "2025-07-02*20:30:00"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "16:45",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-03*16:45:00"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "19:45",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-03*19:45:00"
+        },
+        {
+          "date": "2025-07-04",
+          "time": "14:50",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-07-04*14:50:00"
+        },
+        {
+          "date": "2025-07-04",
+          "time": "17:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-04*17:00:00"
+        },
+        {
+          "date": "2025-07-04",
+          "time": "20:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-04*20:00:00"
+        },
+        {
+          "date": "2025-07-05",
+          "time": "14:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-05*14:00:00"
+        },
+        {
+          "date": "2025-07-05",
+          "time": "17:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-05*17:00:00"
+        },
+        {
+          "date": "2025-07-05",
+          "time": "20:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-05*20:00:00"
+        },
+        {
+          "date": "2025-07-06",
+          "time": "14:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-06*14:00:00"
+        },
+        {
+          "date": "2025-07-06",
+          "time": "17:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-06*17:00:00"
+        },
+        {
+          "date": "2025-07-06",
+          "time": "20:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-06*20:00:00"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "16:00",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-07*16:00:00"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "18:45",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-07*18:45:00"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "18:20",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-07-09*18:20:00"
         }
       ],
-      "last_updated": "2025-06-30T08:00:03.679881"
+      "last_updated": "2025-07-01T08:00:05.642992"
+    },
+    {
+      "id": "film_116999",
+      "title": "Superman",
+      "director": "James Gunn",
+      "fsk": "PG-13",
+      "runtime": "130",
+      "description": "The Superman is active in Metropolis as a superhero and works as reporter Clark Kent at the Daily Planet. There, he knows Lois Lane, who is the only one aware of his secret identity.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-07-10",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116999X18062025112426.jpg",
+      "showtimes": [
+        {
+          "date": "2025-07-09",
+          "time": "19:40",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-09*19:40:00"
+        }
+      ],
+      "last_updated": "2025-07-01T08:00:05.642992"
     },
     {
       "id": "film_109880",
@@ -58,9 +168,15 @@
           "time": "18:20",
           "hall": "Broadway Kino",
           "booking_available_until": "2025-07-02*18:20:00"
+        },
+        {
+          "date": "2025-07-04",
+          "time": "21:00",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-07-04*21:00:00"
         }
       ],
-      "last_updated": "2025-06-30T08:00:03.679881"
+      "last_updated": "2025-07-01T08:00:05.642992"
     },
     {
       "id": "film_115577",
@@ -84,9 +200,51 @@
           "time": "17:00",
           "hall": "The New Magic 5",
           "booking_available_until": "2025-07-02*17:00:00"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "19:40",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-07-03*19:40:00"
+        },
+        {
+          "date": "2025-07-04",
+          "time": "17:45",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-07-04*17:45:00"
+        },
+        {
+          "date": "2025-07-05",
+          "time": "17:45",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-07-05*17:45:00"
+        },
+        {
+          "date": "2025-07-06",
+          "time": "17:45",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-07-06*17:45:00"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "14:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-07-07*14:30:00"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "18:00",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-07-07*18:00:00"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "17:00",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-07-09*17:00:00"
         }
       ],
-      "last_updated": "2025-06-30T08:00:03.679881"
+      "last_updated": "2025-07-01T08:00:05.642992"
     },
     {
       "id": "film_115578",
@@ -110,9 +268,27 @@
           "time": "19:00",
           "hall": "The New Magic 3",
           "booking_available_until": "2025-07-02*19:00:00"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "20:50",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-07-03*20:50:00"
+        },
+        {
+          "date": "2025-07-06",
+          "time": "20:50",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-07-06*20:50:00"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "18:50",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-07-07*18:50:00"
         }
       ],
-      "last_updated": "2025-06-30T08:00:03.679881"
+      "last_updated": "2025-07-01T08:00:05.642992"
     },
     {
       "id": "film_109309",
@@ -136,17 +312,29 @@
           "time": "17:00",
           "hall": "The New Magic 3",
           "booking_available_until": "2025-07-02*17:00:00"
+        },
+        {
+          "date": "2025-07-04",
+          "time": "14:40",
+          "hall": "The New Magic 4",
+          "booking_available_until": "2025-07-04*14:40:00"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "14:00",
+          "hall": "The New Magic 4",
+          "booking_available_until": "2025-07-07*14:00:00"
         }
       ],
-      "last_updated": "2025-06-30T08:00:03.679881"
+      "last_updated": "2025-07-01T08:00:05.642992"
     },
     {
-      "id": "film_116999",
-      "title": "Superman",
-      "director": "James Gunn",
-      "fsk": {},
-      "runtime": "129",
-      "description": "The Superman is active in Metropolis as a superhero and works as reporter Clark Kent at the Daily Planet. There, he knows Lois Lane, who is the only one aware of his secret identity.",
+      "id": "film_116656",
+      "title": "How to Train Your Dragon",
+      "director": "Dean DeBlois",
+      "fsk": "PG-13",
+      "runtime": "126",
+      "description": "On the rugged island of Berk, where a fierce rivalry between Vikings and dragons has existed for generations, Hiccup is considered an outsider.",
       "genre_markers": {
         "original_version": true,
         "thx": false,
@@ -154,17 +342,67 @@
         "3d": false,
         "4k": false
       },
-      "cinema_start_date": "2025-07-10",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116999X18062025112426.jpg",
+      "cinema_start_date": "2025-06-12",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116656X21052025171056.jpg",
       "showtimes": [
         {
-          "date": "2025-07-09",
-          "time": "19:40",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-09*19:40:00"
+          "date": "2025-07-04",
+          "time": "15:00",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-07-04*15:00:00"
+        },
+        {
+          "date": "2025-07-05",
+          "time": "14:45",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-07-05*14:45:00"
+        },
+        {
+          "date": "2025-07-06",
+          "time": "14:45",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-07-06*14:45:00"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "14:30",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-07-07*14:30:00"
         }
       ],
-      "last_updated": "2025-06-30T08:00:03.679881"
+      "last_updated": "2025-07-01T08:00:05.642992"
+    },
+    {
+      "id": "film_116979",
+      "title": "Lilo & Stitch",
+      "director": "Dean Fleischer Camp",
+      "fsk": "PG",
+      "runtime": "108",
+      "description": "Six-year-old Lilo Pelekai lives in Hawaii. What initially sounds like a paradise is anything but pleasant for the girl. She longs for a best friend more than anything else.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-05-22",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116979X10052025020848.jpg",
+      "showtimes": [
+        {
+          "date": "2025-07-03",
+          "time": "18:40",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-07-03*18:40:00"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "14:40",
+          "hall": "The New Magic 3",
+          "booking_available_until": "2025-07-07*14:40:00"
+        }
+      ],
+      "last_updated": "2025-07-01T08:00:05.642992"
     }
   ]
 }
