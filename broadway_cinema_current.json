@@ -1,7 +1,7 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-07-01T08:00:05.643282",
+  "last_updated": "2025-07-02T08:00:07.612503",
   "total_movies": 8,
   "movies": [
     {
@@ -118,7 +118,7 @@
           "booking_available_until": "2025-07-09*18:20:00"
         }
       ],
-      "last_updated": "2025-07-01T08:00:05.642992"
+      "last_updated": "2025-07-02T08:00:07.612291"
     },
     {
       "id": "film_116999",
@@ -144,7 +144,7 @@
           "booking_available_until": "2025-07-09*19:40:00"
         }
       ],
-      "last_updated": "2025-07-01T08:00:05.642992"
+      "last_updated": "2025-07-02T08:00:07.612291"
     },
     {
       "id": "film_109880",
@@ -176,7 +176,7 @@
           "booking_available_until": "2025-07-04*21:00:00"
         }
       ],
-      "last_updated": "2025-07-01T08:00:05.642992"
+      "last_updated": "2025-07-02T08:00:07.612291"
     },
     {
       "id": "film_115577",
@@ -244,7 +244,7 @@
           "booking_available_until": "2025-07-09*17:00:00"
         }
       ],
-      "last_updated": "2025-07-01T08:00:05.642992"
+      "last_updated": "2025-07-02T08:00:07.612291"
     },
     {
       "id": "film_115578",
@@ -288,7 +288,7 @@
           "booking_available_until": "2025-07-07*18:50:00"
         }
       ],
-      "last_updated": "2025-07-01T08:00:05.642992"
+      "last_updated": "2025-07-02T08:00:07.612291"
     },
     {
       "id": "film_109309",
@@ -326,7 +326,7 @@
           "booking_available_until": "2025-07-07*14:00:00"
         }
       ],
-      "last_updated": "2025-07-01T08:00:05.642992"
+      "last_updated": "2025-07-02T08:00:07.612291"
     },
     {
       "id": "film_116656",
@@ -370,7 +370,7 @@
           "booking_available_until": "2025-07-07*14:30:00"
         }
       ],
-      "last_updated": "2025-07-01T08:00:05.642992"
+      "last_updated": "2025-07-02T08:00:07.612291"
     },
     {
       "id": "film_116979",
@@ -402,7 +402,7 @@
           "booking_available_until": "2025-07-07*14:40:00"
         }
       ],
-      "last_updated": "2025-07-01T08:00:05.642992"
+      "last_updated": "2025-07-02T08:00:07.612291"
     }
   ]
 }
