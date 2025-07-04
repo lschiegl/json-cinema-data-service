@@ -1,7 +1,7 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-07-03T08:00:09.579668",
+  "last_updated": "2025-07-04T08:00:11.471999",
   "total_movies": 8,
   "movies": [
     {
@@ -21,18 +21,6 @@
       "cinema_start_date": "2025-07-02",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116995X10062025114011.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-03",
-          "time": "16:45",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-03*16:45:00"
-        },
-        {
-          "date": "2025-07-03",
-          "time": "19:45",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-03*19:45:00"
-        },
         {
           "date": "2025-07-04",
           "time": "14:50",
@@ -106,7 +94,7 @@
           "booking_available_until": "2025-07-09*18:20:00"
         }
       ],
-      "last_updated": "2025-07-03T08:00:09.579423"
+      "last_updated": "2025-07-04T08:00:11.471780"
     },
     {
       "id": "film_116999",
@@ -132,7 +120,7 @@
           "booking_available_until": "2025-07-09*19:40:00"
         }
       ],
-      "last_updated": "2025-07-03T08:00:09.579423"
+      "last_updated": "2025-07-04T08:00:11.471780"
     },
     {
       "id": "film_115577",
@@ -151,12 +139,6 @@
       "cinema_start_date": "2025-06-26",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_115577X23062025180415.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-03",
-          "time": "19:40",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-07-03*19:40:00"
-        },
         {
           "date": "2025-07-04",
           "time": "17:45",
@@ -194,7 +176,7 @@
           "booking_available_until": "2025-07-09*17:00:00"
         }
       ],
-      "last_updated": "2025-07-03T08:00:09.579423"
+      "last_updated": "2025-07-04T08:00:11.471780"
     },
     {
       "id": "film_109880",
@@ -220,7 +202,7 @@
           "booking_available_until": "2025-07-04*21:00:00"
         }
       ],
-      "last_updated": "2025-07-03T08:00:09.579423"
+      "last_updated": "2025-07-04T08:00:11.471780"
     },
     {
       "id": "film_115578",
@@ -240,12 +222,6 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_115578X15062025190216.jpg",
       "showtimes": [
         {
-          "date": "2025-07-03",
-          "time": "20:50",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-07-03*20:50:00"
-        },
-        {
           "date": "2025-07-06",
           "time": "20:50",
           "hall": "Broadway Kino",
@@ -258,7 +234,7 @@
           "booking_available_until": "2025-07-07*18:50:00"
         }
       ],
-      "last_updated": "2025-07-03T08:00:09.579423"
+      "last_updated": "2025-07-04T08:00:11.471780"
     },
     {
       "id": "film_109309",
@@ -290,7 +266,7 @@
           "booking_available_until": "2025-07-07*14:00:00"
         }
       ],
-      "last_updated": "2025-07-03T08:00:09.579423"
+      "last_updated": "2025-07-04T08:00:11.471780"
     },
     {
       "id": "film_116656",
@@ -334,7 +310,7 @@
           "booking_available_until": "2025-07-07*14:30:00"
         }
       ],
-      "last_updated": "2025-07-03T08:00:09.579423"
+      "last_updated": "2025-07-04T08:00:11.471780"
     },
     {
       "id": "film_116979",
@@ -354,19 +330,13 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116979X10052025020848.jpg",
       "showtimes": [
         {
-          "date": "2025-07-03",
-          "time": "18:40",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-07-03*18:40:00"
-        },
-        {
           "date": "2025-07-07",
           "time": "14:40",
           "hall": "The New Magic 3",
           "booking_available_until": "2025-07-07*14:40:00"
         }
       ],
-      "last_updated": "2025-07-03T08:00:09.579423"
+      "last_updated": "2025-07-04T08:00:11.471780"
     }
   ]
 }
