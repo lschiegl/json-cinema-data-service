@@ -1,8 +1,8 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-07-04T08:00:11.471999",
-  "total_movies": 8,
+  "last_updated": "2025-07-05T08:00:13.164033",
+  "total_movies": 7,
   "movies": [
     {
       "id": "film_116995",
@@ -21,24 +21,6 @@
       "cinema_start_date": "2025-07-02",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116995X10062025114011.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-04",
-          "time": "14:50",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-07-04*14:50:00"
-        },
-        {
-          "date": "2025-07-04",
-          "time": "17:00",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-04*17:00:00"
-        },
-        {
-          "date": "2025-07-04",
-          "time": "20:00",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-04*20:00:00"
-        },
         {
           "date": "2025-07-05",
           "time": "14:00",
@@ -94,7 +76,7 @@
           "booking_available_until": "2025-07-09*18:20:00"
         }
       ],
-      "last_updated": "2025-07-04T08:00:11.471780"
+      "last_updated": "2025-07-05T08:00:13.163843"
     },
     {
       "id": "film_116999",
@@ -120,7 +102,7 @@
           "booking_available_until": "2025-07-09*19:40:00"
         }
       ],
-      "last_updated": "2025-07-04T08:00:11.471780"
+      "last_updated": "2025-07-05T08:00:13.163843"
     },
     {
       "id": "film_115577",
@@ -139,12 +121,6 @@
       "cinema_start_date": "2025-06-26",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_115577X23062025180415.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-04",
-          "time": "17:45",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-07-04*17:45:00"
-        },
         {
           "date": "2025-07-05",
           "time": "17:45",
@@ -176,33 +152,7 @@
           "booking_available_until": "2025-07-09*17:00:00"
         }
       ],
-      "last_updated": "2025-07-04T08:00:11.471780"
-    },
-    {
-      "id": "film_109880",
-      "title": "M3GAN 2.0",
-      "director": "Gerard Johnstone",
-      "fsk": "R",
-      "runtime": "120",
-      "description": "Two years after the devastating incident involving the AI M3GAN, its creator Gemma (Allison Williams) has established herself as an author and is fighting for stricter AI regulation.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-06-26",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_109880X23062025180557.jpg",
-      "showtimes": [
-        {
-          "date": "2025-07-04",
-          "time": "21:00",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-07-04*21:00:00"
-        }
-      ],
-      "last_updated": "2025-07-04T08:00:11.471780"
+      "last_updated": "2025-07-05T08:00:13.163843"
     },
     {
       "id": "film_115578",
@@ -234,7 +184,7 @@
           "booking_available_until": "2025-07-07*18:50:00"
         }
       ],
-      "last_updated": "2025-07-04T08:00:11.471780"
+      "last_updated": "2025-07-05T08:00:13.163843"
     },
     {
       "id": "film_109309",
@@ -254,19 +204,13 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_109309X26042025195618.jpg",
       "showtimes": [
         {
-          "date": "2025-07-04",
-          "time": "14:40",
-          "hall": "The New Magic 4",
-          "booking_available_until": "2025-07-04*14:40:00"
-        },
-        {
           "date": "2025-07-07",
           "time": "14:00",
           "hall": "The New Magic 4",
           "booking_available_until": "2025-07-07*14:00:00"
         }
       ],
-      "last_updated": "2025-07-04T08:00:11.471780"
+      "last_updated": "2025-07-05T08:00:13.163843"
     },
     {
       "id": "film_116656",
@@ -286,12 +230,6 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116656X21052025171056.jpg",
       "showtimes": [
         {
-          "date": "2025-07-04",
-          "time": "15:00",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-07-04*15:00:00"
-        },
-        {
           "date": "2025-07-05",
           "time": "14:45",
           "hall": "The New Magic 5",
@@ -310,7 +248,7 @@
           "booking_available_until": "2025-07-07*14:30:00"
         }
       ],
-      "last_updated": "2025-07-04T08:00:11.471780"
+      "last_updated": "2025-07-05T08:00:13.163843"
     },
     {
       "id": "film_116979",
@@ -336,7 +274,7 @@
           "booking_available_until": "2025-07-07*14:40:00"
         }
       ],
-      "last_updated": "2025-07-04T08:00:11.471780"
+      "last_updated": "2025-07-05T08:00:13.163843"
     }
   ]
 }
