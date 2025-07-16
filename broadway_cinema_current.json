@@ -1,7 +1,7 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-07-15T08:00:31.704472",
+  "last_updated": "2025-07-16T08:00:33.462313",
   "total_movies": 8,
   "movies": [
     {
@@ -118,7 +118,7 @@
           "booking_available_until": "2025-07-23*20:30:00"
         }
       ],
-      "last_updated": "2025-07-15T08:00:31.704190"
+      "last_updated": "2025-07-16T08:00:33.462082"
     },
     {
       "id": "film_117001",
@@ -174,7 +174,7 @@
           "booking_available_until": "2025-07-23*18:30:00"
         }
       ],
-      "last_updated": "2025-07-15T08:00:31.704190"
+      "last_updated": "2025-07-16T08:00:33.462082"
     },
     {
       "id": "film_116995",
@@ -254,14 +254,14 @@
           "booking_available_until": "2025-07-23*19:45:00"
         }
       ],
-      "last_updated": "2025-07-15T08:00:31.704190"
+      "last_updated": "2025-07-16T08:00:33.462082"
     },
     {
       "id": "film_117612",
       "title": "Smurfs",
       "director": "Chris Miller (LX)",
       "fsk": "G",
-      "runtime": "95",
+      "runtime": "92",
       "description": "When Papa Smurf is mysteriously kidnapped by the evil wizards Gargamel and Razamel, the Smurfs face their greatest challenge yet.",
       "genre_markers": {
         "original_version": true,
@@ -271,7 +271,7 @@
         "4k": false
       },
       "cinema_start_date": "2025-07-17",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_117612X14072025160836.jpg",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_117612X15072025183144.jpg",
       "showtimes": [
         {
           "date": "2025-07-17",
@@ -322,7 +322,7 @@
           "booking_available_until": "2025-07-23*18:20:00"
         }
       ],
-      "last_updated": "2025-07-15T08:00:31.704190"
+      "last_updated": "2025-07-16T08:00:33.462082"
     },
     {
       "id": "film_115577",
@@ -360,7 +360,7 @@
           "booking_available_until": "2025-07-21*20:00:00"
         }
       ],
-      "last_updated": "2025-07-15T08:00:31.704190"
+      "last_updated": "2025-07-16T08:00:33.462082"
     },
     {
       "id": "film_115578",
@@ -386,7 +386,7 @@
           "booking_available_until": "2025-07-20*20:00:00"
         }
       ],
-      "last_updated": "2025-07-15T08:00:31.704190"
+      "last_updated": "2025-07-16T08:00:33.462082"
     },
     {
       "id": "film_116656",
@@ -412,7 +412,7 @@
           "booking_available_until": "2025-07-19*16:00:00"
         }
       ],
-      "last_updated": "2025-07-15T08:00:31.704190"
+      "last_updated": "2025-07-16T08:00:33.462082"
     },
     {
       "id": "film_116979",
@@ -438,7 +438,7 @@
           "booking_available_until": "2025-07-18*15:30:00"
         }
       ],
-      "last_updated": "2025-07-15T08:00:31.704190"
+      "last_updated": "2025-07-16T08:00:33.462082"
     }
   ]
 }
