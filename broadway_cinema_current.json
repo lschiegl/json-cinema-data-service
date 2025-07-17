@@ -1,9 +1,41 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-07-16T08:00:33.462313",
-  "total_movies": 8,
+  "last_updated": "2025-07-17T08:00:35.181472",
+  "total_movies": 9,
   "movies": [
+    {
+      "id": "film_117003",
+      "title": "The Fantastic Four: First Steps",
+      "director": "Matt Shakman",
+      "fsk": {},
+      "runtime": "115",
+      "description": "Reed Richards, Sue Storm, Johnny Storm, and Ben Grimm are superheroes with special powers and a sort of family. Their bond is tested by the space god Galactus, who threatens Earth.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-07-24",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_117003X10072025095906.jpg",
+      "showtimes": [
+        {
+          "date": "2025-07-24",
+          "time": "17:30",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-24*17:30:00"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "20:30",
+          "hall": "The New Magic 6",
+          "booking_available_until": "2025-07-24*20:30:00"
+        }
+      ],
+      "last_updated": "2025-07-17T08:00:35.181194"
+    },
     {
       "id": "film_116999",
       "title": "Superman",
@@ -21,18 +53,6 @@
       "cinema_start_date": "2025-07-10",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116999X18062025112426.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-16",
-          "time": "17:00",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-16*17:00:00"
-        },
-        {
-          "date": "2025-07-16",
-          "time": "20:00",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-16*20:00:00"
-        },
         {
           "date": "2025-07-17",
           "time": "17:00",
@@ -118,7 +138,7 @@
           "booking_available_until": "2025-07-23*20:30:00"
         }
       ],
-      "last_updated": "2025-07-16T08:00:33.462082"
+      "last_updated": "2025-07-17T08:00:35.181194"
     },
     {
       "id": "film_117001",
@@ -174,87 +194,7 @@
           "booking_available_until": "2025-07-23*18:30:00"
         }
       ],
-      "last_updated": "2025-07-16T08:00:33.462082"
-    },
-    {
-      "id": "film_116995",
-      "title": "Jurassic World Rebirth",
-      "director": "Gareth Edwards (V)",
-      "fsk": "PG-13",
-      "runtime": "134",
-      "description": "Five years after the events on Isla Nublar, dinosaurs and humans live in a fragile coexistence. However, the planet´s drastic ecological changes increasingly force the prehistoric creatures to retreat to isolated equatorial regions.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-07-02",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116995X10062025114011.jpg",
-      "showtimes": [
-        {
-          "date": "2025-07-16",
-          "time": "16:50",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-07-16*16:50:00"
-        },
-        {
-          "date": "2025-07-16",
-          "time": "19:45",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-07-16*19:45:00"
-        },
-        {
-          "date": "2025-07-17",
-          "time": "19:45",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-07-17*19:45:00"
-        },
-        {
-          "date": "2025-07-18",
-          "time": "19:45",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-07-18*19:45:00"
-        },
-        {
-          "date": "2025-07-19",
-          "time": "16:20",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-07-19*16:20:00"
-        },
-        {
-          "date": "2025-07-19",
-          "time": "19:45",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-07-19*19:45:00"
-        },
-        {
-          "date": "2025-07-20",
-          "time": "16:20",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-07-20*16:20:00"
-        },
-        {
-          "date": "2025-07-20",
-          "time": "19:45",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-07-20*19:45:00"
-        },
-        {
-          "date": "2025-07-21",
-          "time": "19:45",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-07-21*19:45:00"
-        },
-        {
-          "date": "2025-07-23",
-          "time": "19:45",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-07-23*19:45:00"
-        }
-      ],
-      "last_updated": "2025-07-16T08:00:33.462082"
+      "last_updated": "2025-07-17T08:00:35.181194"
     },
     {
       "id": "film_117612",
@@ -322,7 +262,75 @@
           "booking_available_until": "2025-07-23*18:20:00"
         }
       ],
-      "last_updated": "2025-07-16T08:00:33.462082"
+      "last_updated": "2025-07-17T08:00:35.181194"
+    },
+    {
+      "id": "film_116995",
+      "title": "Jurassic World Rebirth",
+      "director": "Gareth Edwards (V)",
+      "fsk": "PG-13",
+      "runtime": "134",
+      "description": "Five years after the events on Isla Nublar, dinosaurs and humans live in a fragile coexistence. However, the planet´s drastic ecological changes increasingly force the prehistoric creatures to retreat to isolated equatorial regions.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-07-02",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116995X10062025114011.jpg",
+      "showtimes": [
+        {
+          "date": "2025-07-17",
+          "time": "19:45",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-07-17*19:45:00"
+        },
+        {
+          "date": "2025-07-18",
+          "time": "19:45",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-07-18*19:45:00"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "16:20",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-07-19*16:20:00"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "19:45",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-07-19*19:45:00"
+        },
+        {
+          "date": "2025-07-20",
+          "time": "16:20",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-07-20*16:20:00"
+        },
+        {
+          "date": "2025-07-20",
+          "time": "19:45",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-07-20*19:45:00"
+        },
+        {
+          "date": "2025-07-21",
+          "time": "19:45",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-07-21*19:45:00"
+        },
+        {
+          "date": "2025-07-23",
+          "time": "19:45",
+          "hall": "The New Magic 5",
+          "booking_available_until": "2025-07-23*19:45:00"
+        }
+      ],
+      "last_updated": "2025-07-17T08:00:35.181194"
     },
     {
       "id": "film_115577",
@@ -342,12 +350,6 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_115577X23062025180415.jpg",
       "showtimes": [
         {
-          "date": "2025-07-16",
-          "time": "17:20",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-07-16*17:20:00"
-        },
-        {
           "date": "2025-07-18",
           "time": "20:00",
           "hall": "The New Magic 4",
@@ -360,7 +362,7 @@
           "booking_available_until": "2025-07-21*20:00:00"
         }
       ],
-      "last_updated": "2025-07-16T08:00:33.462082"
+      "last_updated": "2025-07-17T08:00:35.181194"
     },
     {
       "id": "film_115578",
@@ -386,7 +388,7 @@
           "booking_available_until": "2025-07-20*20:00:00"
         }
       ],
-      "last_updated": "2025-07-16T08:00:33.462082"
+      "last_updated": "2025-07-17T08:00:35.181194"
     },
     {
       "id": "film_116656",
@@ -412,7 +414,7 @@
           "booking_available_until": "2025-07-19*16:00:00"
         }
       ],
-      "last_updated": "2025-07-16T08:00:33.462082"
+      "last_updated": "2025-07-17T08:00:35.181194"
     },
     {
       "id": "film_116979",
@@ -438,7 +440,7 @@
           "booking_available_until": "2025-07-18*15:30:00"
         }
       ],
-      "last_updated": "2025-07-16T08:00:33.462082"
+      "last_updated": "2025-07-17T08:00:35.181194"
     }
   ]
 }
