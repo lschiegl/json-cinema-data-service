@@ -1,8 +1,8 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-07-18T08:00:36.907321",
-  "total_movies": 9,
+  "last_updated": "2025-07-19T08:00:38.513815",
+  "total_movies": 8,
   "movies": [
     {
       "id": "film_117003",
@@ -34,7 +34,7 @@
           "booking_available_until": "2025-07-24*20:30:00"
         }
       ],
-      "last_updated": "2025-07-18T08:00:36.907024"
+      "last_updated": "2025-07-19T08:00:38.513612"
     },
     {
       "id": "film_116999",
@@ -53,18 +53,6 @@
       "cinema_start_date": "2025-07-10",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116999X18062025112426.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-18",
-          "time": "17:00",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-07-18*17:00:00"
-        },
-        {
-          "date": "2025-07-18",
-          "time": "20:30",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-18*20:30:00"
-        },
         {
           "date": "2025-07-19",
           "time": "14:15",
@@ -126,7 +114,7 @@
           "booking_available_until": "2025-07-23*20:30:00"
         }
       ],
-      "last_updated": "2025-07-18T08:00:36.907024"
+      "last_updated": "2025-07-19T08:00:38.513612"
     },
     {
       "id": "film_117001",
@@ -145,12 +133,6 @@
       "cinema_start_date": "2025-07-17",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_117001X30062025165040.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-18",
-          "time": "18:30",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-07-18*18:30:00"
-        },
         {
           "date": "2025-07-19",
           "time": "18:30",
@@ -176,7 +158,7 @@
           "booking_available_until": "2025-07-23*18:30:00"
         }
       ],
-      "last_updated": "2025-07-18T08:00:36.907024"
+      "last_updated": "2025-07-19T08:00:38.513612"
     },
     {
       "id": "film_117612",
@@ -195,12 +177,6 @@
       "cinema_start_date": "2025-07-17",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_117612X15072025183144.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-18",
-          "time": "18:20",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-18*18:20:00"
-        },
         {
           "date": "2025-07-19",
           "time": "14:20",
@@ -238,7 +214,7 @@
           "booking_available_until": "2025-07-23*18:20:00"
         }
       ],
-      "last_updated": "2025-07-18T08:00:36.907024"
+      "last_updated": "2025-07-19T08:00:38.513612"
     },
     {
       "id": "film_116995",
@@ -257,12 +233,6 @@
       "cinema_start_date": "2025-07-02",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116995X10062025114011.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-18",
-          "time": "19:45",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-07-18*19:45:00"
-        },
         {
           "date": "2025-07-19",
           "time": "16:20",
@@ -300,7 +270,7 @@
           "booking_available_until": "2025-07-23*19:45:00"
         }
       ],
-      "last_updated": "2025-07-18T08:00:36.907024"
+      "last_updated": "2025-07-19T08:00:38.513612"
     },
     {
       "id": "film_115577",
@@ -320,19 +290,13 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_115577X23062025180415.jpg",
       "showtimes": [
         {
-          "date": "2025-07-18",
-          "time": "20:00",
-          "hall": "The New Magic 4",
-          "booking_available_until": "2025-07-18*20:00:00"
-        },
-        {
           "date": "2025-07-21",
           "time": "20:00",
           "hall": "The New Magic 4",
           "booking_available_until": "2025-07-21*20:00:00"
         }
       ],
-      "last_updated": "2025-07-18T08:00:36.907024"
+      "last_updated": "2025-07-19T08:00:38.513612"
     },
     {
       "id": "film_115578",
@@ -358,7 +322,7 @@
           "booking_available_until": "2025-07-20*20:00:00"
         }
       ],
-      "last_updated": "2025-07-18T08:00:36.907024"
+      "last_updated": "2025-07-19T08:00:38.513612"
     },
     {
       "id": "film_116656",
@@ -384,33 +348,7 @@
           "booking_available_until": "2025-07-19*16:00:00"
         }
       ],
-      "last_updated": "2025-07-18T08:00:36.907024"
-    },
-    {
-      "id": "film_116979",
-      "title": "Lilo & Stitch",
-      "director": "Dean Fleischer Camp",
-      "fsk": "PG",
-      "runtime": "108",
-      "description": "Six-year-old Lilo Pelekai lives in Hawaii. What initially sounds like a paradise is anything but pleasant for the girl. She longs for a best friend more than anything else.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-05-22",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116979X10052025020848.jpg",
-      "showtimes": [
-        {
-          "date": "2025-07-18",
-          "time": "15:30",
-          "hall": "The New Magic 4",
-          "booking_available_until": "2025-07-18*15:30:00"
-        }
-      ],
-      "last_updated": "2025-07-18T08:00:36.907024"
+      "last_updated": "2025-07-19T08:00:38.513612"
     }
   ]
 }
