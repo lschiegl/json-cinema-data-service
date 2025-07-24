@@ -1,9 +1,35 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-07-23T08:00:45.759828",
+  "last_updated": "2025-07-24T08:00:47.526557",
   "total_movies": 9,
   "movies": [
+    {
+      "id": "film_119204",
+      "title": "The Naked Gun",
+      "director": "Akiva Schaffer",
+      "fsk": {},
+      "runtime": "85",
+      "description": "Only one person has the necessary talent - or at least the right amount of chaos - to lead an elite police unit and save the world on the side: Lt.",
+      "genre_markers": {
+        "original_version": true,
+        "thx": false,
+        "dolby_7_1": false,
+        "3d": false,
+        "4k": false
+      },
+      "cinema_start_date": "2025-07-31",
+      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_119204X10072025100019.jpg",
+      "showtimes": [
+        {
+          "date": "2025-07-30",
+          "time": "20:30",
+          "hall": "Broadway Kino",
+          "booking_available_until": "2025-07-30*20:30:00"
+        }
+      ],
+      "last_updated": "2025-07-24T08:00:47.526284"
+    },
     {
       "id": "film_117003",
       "title": "The Fantastic Four: First Steps",
@@ -106,33 +132,7 @@
           "booking_available_until": "2025-07-30*20:30:00"
         }
       ],
-      "last_updated": "2025-07-23T08:00:45.759539"
-    },
-    {
-      "id": "film_119204",
-      "title": "The Naked Gun",
-      "director": "Akiva Schaffer",
-      "fsk": {},
-      "runtime": "85",
-      "description": "Only one person has the necessary talent - or at least the right amount of chaos - to lead an elite police unit and save the world on the side: Lt.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-07-31",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_119204X10072025100019.jpg",
-      "showtimes": [
-        {
-          "date": "2025-07-30",
-          "time": "20:30",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-07-30*20:30:00"
-        }
-      ],
-      "last_updated": "2025-07-23T08:00:45.759539"
+      "last_updated": "2025-07-24T08:00:47.526284"
     },
     {
       "id": "film_116999",
@@ -151,18 +151,6 @@
       "cinema_start_date": "2025-07-10",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116999X18062025112426.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-23",
-          "time": "17:00",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-07-23*17:00:00"
-        },
-        {
-          "date": "2025-07-23",
-          "time": "20:30",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-23*20:30:00"
-        },
         {
           "date": "2025-07-24",
           "time": "16:40",
@@ -230,7 +218,7 @@
           "booking_available_until": "2025-07-30*18:00:00"
         }
       ],
-      "last_updated": "2025-07-23T08:00:45.759539"
+      "last_updated": "2025-07-24T08:00:47.526284"
     },
     {
       "id": "film_117001",
@@ -250,12 +238,6 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_117001X30062025165040.jpg",
       "showtimes": [
         {
-          "date": "2025-07-23",
-          "time": "18:30",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-07-23*18:30:00"
-        },
-        {
           "date": "2025-07-26",
           "time": "18:50",
           "hall": "The New Magic 4",
@@ -268,7 +250,7 @@
           "booking_available_until": "2025-07-27*18:50:00"
         }
       ],
-      "last_updated": "2025-07-23T08:00:45.759539"
+      "last_updated": "2025-07-24T08:00:47.526284"
     },
     {
       "id": "film_117612",
@@ -288,12 +270,6 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_117612X15072025183144.jpg",
       "showtimes": [
         {
-          "date": "2025-07-23",
-          "time": "18:20",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-23*18:20:00"
-        },
-        {
           "date": "2025-07-26",
           "time": "14:50",
           "hall": "Broadway Kino",
@@ -306,7 +282,7 @@
           "booking_available_until": "2025-07-27*14:50:00"
         }
       ],
-      "last_updated": "2025-07-23T08:00:45.759539"
+      "last_updated": "2025-07-24T08:00:47.526284"
     },
     {
       "id": "film_116995",
@@ -325,12 +301,6 @@
       "cinema_start_date": "2025-07-02",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116995X10062025114011.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-23",
-          "time": "19:45",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-07-23*19:45:00"
-        },
         {
           "date": "2025-07-24",
           "time": "18:00",
@@ -374,7 +344,7 @@
           "booking_available_until": "2025-07-30*18:00:00"
         }
       ],
-      "last_updated": "2025-07-23T08:00:45.759539"
+      "last_updated": "2025-07-24T08:00:47.526284"
     },
     {
       "id": "film_115577",
@@ -400,7 +370,7 @@
           "booking_available_until": "2025-07-27*17:30:00"
         }
       ],
-      "last_updated": "2025-07-23T08:00:45.759539"
+      "last_updated": "2025-07-24T08:00:47.526284"
     },
     {
       "id": "film_115578",
@@ -426,7 +396,7 @@
           "booking_available_until": "2025-07-25*18:30:00"
         }
       ],
-      "last_updated": "2025-07-23T08:00:45.759539"
+      "last_updated": "2025-07-24T08:00:47.526284"
     },
     {
       "id": "film_116656",
@@ -452,7 +422,7 @@
           "booking_available_until": "2025-07-26*14:30:00"
         }
       ],
-      "last_updated": "2025-07-23T08:00:45.759539"
+      "last_updated": "2025-07-24T08:00:47.526284"
     }
   ]
 }
