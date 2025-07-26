@@ -1,8 +1,8 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-07-25T08:00:49.479032",
-  "total_movies": 9,
+  "last_updated": "2025-07-26T08:00:51.210999",
+  "total_movies": 8,
   "movies": [
     {
       "id": "film_119204",
@@ -28,7 +28,7 @@
           "booking_available_until": "2025-07-30*20:30:00"
         }
       ],
-      "last_updated": "2025-07-25T08:00:49.478746"
+      "last_updated": "2025-07-26T08:00:51.210795"
     },
     {
       "id": "film_117003",
@@ -47,18 +47,6 @@
       "cinema_start_date": "2025-07-24",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_117003X10072025095906.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-25",
-          "time": "17:30",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-25*17:30:00"
-        },
-        {
-          "date": "2025-07-25",
-          "time": "20:30",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-25*20:30:00"
-        },
         {
           "date": "2025-07-26",
           "time": "14:45",
@@ -120,7 +108,7 @@
           "booking_available_until": "2025-07-30*20:30:00"
         }
       ],
-      "last_updated": "2025-07-25T08:00:49.478746"
+      "last_updated": "2025-07-26T08:00:51.210795"
     },
     {
       "id": "film_116999",
@@ -139,18 +127,6 @@
       "cinema_start_date": "2025-07-10",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116999X18062025112426.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-25",
-          "time": "16:40",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-07-25*16:40:00"
-        },
-        {
-          "date": "2025-07-25",
-          "time": "19:30",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-07-25*19:30:00"
-        },
         {
           "date": "2025-07-26",
           "time": "16:40",
@@ -194,7 +170,7 @@
           "booking_available_until": "2025-07-30*18:00:00"
         }
       ],
-      "last_updated": "2025-07-25T08:00:49.478746"
+      "last_updated": "2025-07-26T08:00:51.210795"
     },
     {
       "id": "film_117001",
@@ -226,7 +202,7 @@
           "booking_available_until": "2025-07-27*18:50:00"
         }
       ],
-      "last_updated": "2025-07-25T08:00:49.478746"
+      "last_updated": "2025-07-26T08:00:51.210795"
     },
     {
       "id": "film_117612",
@@ -258,7 +234,7 @@
           "booking_available_until": "2025-07-27*14:50:00"
         }
       ],
-      "last_updated": "2025-07-25T08:00:49.478746"
+      "last_updated": "2025-07-26T08:00:51.210795"
     },
     {
       "id": "film_116995",
@@ -277,12 +253,6 @@
       "cinema_start_date": "2025-07-02",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116995X10062025114011.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-25",
-          "time": "18:00",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-07-25*18:00:00"
-        },
         {
           "date": "2025-07-26",
           "time": "14:30",
@@ -314,7 +284,7 @@
           "booking_available_until": "2025-07-30*18:00:00"
         }
       ],
-      "last_updated": "2025-07-25T08:00:49.478746"
+      "last_updated": "2025-07-26T08:00:51.210795"
     },
     {
       "id": "film_115577",
@@ -340,33 +310,7 @@
           "booking_available_until": "2025-07-27*17:30:00"
         }
       ],
-      "last_updated": "2025-07-25T08:00:49.478746"
-    },
-    {
-      "id": "film_115578",
-      "title": "28 Years Later",
-      "director": "Danny Boyle",
-      "fsk": "NC-17",
-      "runtime": "115",
-      "description": "Almost thirty years have passed since the dangerous Rage Virus escaped from a biological weapons lab and mercilessly plagued the world.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-06-19",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_115578X15062025190216.jpg",
-      "showtimes": [
-        {
-          "date": "2025-07-25",
-          "time": "18:30",
-          "hall": "The New Magic 4",
-          "booking_available_until": "2025-07-25*18:30:00"
-        }
-      ],
-      "last_updated": "2025-07-25T08:00:49.478746"
+      "last_updated": "2025-07-26T08:00:51.210795"
     },
     {
       "id": "film_116656",
@@ -392,7 +336,7 @@
           "booking_available_until": "2025-07-26*14:30:00"
         }
       ],
-      "last_updated": "2025-07-25T08:00:49.478746"
+      "last_updated": "2025-07-26T08:00:51.210795"
     }
   ]
 }
