@@ -1,8 +1,8 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-07-31T08:01:00.076685",
-  "total_movies": 9,
+  "last_updated": "2025-08-01T08:00:02.013251",
+  "total_movies": 8,
   "movies": [
     {
       "id": "film_117009",
@@ -28,7 +28,7 @@
           "booking_available_until": "2025-08-06*20:30:00"
         }
       ],
-      "last_updated": "2025-07-31T08:01:00.076371"
+      "last_updated": "2025-08-01T08:00:02.013027"
     },
     {
       "id": "film_119204",
@@ -47,12 +47,6 @@
       "cinema_start_date": "2025-07-31",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_119204X10072025100019.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-31",
-          "time": "19:00",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-07-31*19:00:00"
-        },
         {
           "date": "2025-08-01",
           "time": "19:00",
@@ -96,7 +90,7 @@
           "booking_available_until": "2025-08-06*18:40:00"
         }
       ],
-      "last_updated": "2025-07-31T08:01:00.076371"
+      "last_updated": "2025-08-01T08:00:02.013027"
     },
     {
       "id": "film_117003",
@@ -115,18 +109,6 @@
       "cinema_start_date": "2025-07-24",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_117003X10072025095906.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-31",
-          "time": "17:20",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-31*17:20:00"
-        },
-        {
-          "date": "2025-07-31",
-          "time": "20:30",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-07-31*20:30:00"
-        },
         {
           "date": "2025-08-01",
           "time": "17:20",
@@ -200,7 +182,7 @@
           "booking_available_until": "2025-08-06*20:30:00"
         }
       ],
-      "last_updated": "2025-07-31T08:01:00.076371"
+      "last_updated": "2025-08-01T08:00:02.013027"
     },
     {
       "id": "film_116999",
@@ -219,12 +201,6 @@
       "cinema_start_date": "2025-07-10",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_116999X18062025112426.jpg",
       "showtimes": [
-        {
-          "date": "2025-07-31",
-          "time": "20:10",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-07-31*20:10:00"
-        },
         {
           "date": "2025-08-01",
           "time": "20:10",
@@ -250,7 +226,7 @@
           "booking_available_until": "2025-08-04*20:10:00"
         }
       ],
-      "last_updated": "2025-07-31T08:01:00.076371"
+      "last_updated": "2025-08-01T08:00:02.013027"
     },
     {
       "id": "film_117001",
@@ -282,7 +258,7 @@
           "booking_available_until": "2025-08-04*20:50:00"
         }
       ],
-      "last_updated": "2025-07-31T08:01:00.076371"
+      "last_updated": "2025-08-01T08:00:02.013027"
     },
     {
       "id": "film_117612",
@@ -314,7 +290,7 @@
           "booking_available_until": "2025-08-03*14:10:00"
         }
       ],
-      "last_updated": "2025-07-31T08:01:00.076371"
+      "last_updated": "2025-08-01T08:00:02.013027"
     },
     {
       "id": "film_116995",
@@ -352,33 +328,7 @@
           "booking_available_until": "2025-08-03*17:20:00"
         }
       ],
-      "last_updated": "2025-07-31T08:01:00.076371"
-    },
-    {
-      "id": "film_115577",
-      "title": "F1",
-      "director": "Joseph Kosinski",
-      "fsk": "PG-13",
-      "runtime": "155",
-      "description": "In the 1990s, Sonny Hayes was regarded as the next big talent in racing, especially in Formula 1. However, racing also involves exposing one´s body to great risks, and one must prepare for the worst.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-06-26",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_115577X23062025180415.jpg",
-      "showtimes": [
-        {
-          "date": "2025-07-31",
-          "time": "17:00",
-          "hall": "The New Magic 3",
-          "booking_available_until": "2025-07-31*17:00:00"
-        }
-      ],
-      "last_updated": "2025-07-31T08:01:00.076371"
+      "last_updated": "2025-08-01T08:00:02.013027"
     },
     {
       "id": "film_116656",
@@ -404,7 +354,7 @@
           "booking_available_until": "2025-08-02*14:50:00"
         }
       ],
-      "last_updated": "2025-07-31T08:01:00.076371"
+      "last_updated": "2025-08-01T08:00:02.013027"
     }
   ]
 }
