@@ -1,7 +1,7 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-08-05T08:00:09.703333",
+  "last_updated": "2025-08-06T08:00:11.695138",
   "total_movies": 9,
   "movies": [
     {
@@ -64,7 +64,7 @@
           "booking_available_until": "2025-08-13*18:30:00"
         }
       ],
-      "last_updated": "2025-08-05T08:00:09.703110"
+      "last_updated": "2025-08-06T08:00:11.694840"
     },
     {
       "id": "film_117476",
@@ -120,7 +120,7 @@
           "booking_available_until": "2025-08-13*18:00:00"
         }
       ],
-      "last_updated": "2025-08-05T08:00:09.703110"
+      "last_updated": "2025-08-06T08:00:11.694840"
     },
     {
       "id": "film_119204",
@@ -182,7 +182,7 @@
           "booking_available_until": "2025-08-13*18:10:00"
         }
       ],
-      "last_updated": "2025-08-05T08:00:09.703110"
+      "last_updated": "2025-08-06T08:00:11.694840"
     },
     {
       "id": "film_117003",
@@ -274,7 +274,7 @@
           "booking_available_until": "2025-08-13*20:30:00"
         }
       ],
-      "last_updated": "2025-08-05T08:00:09.703110"
+      "last_updated": "2025-08-06T08:00:11.694840"
     },
     {
       "id": "film_116999",
@@ -306,7 +306,7 @@
           "booking_available_until": "2025-08-10*14:30:00"
         }
       ],
-      "last_updated": "2025-08-05T08:00:09.703110"
+      "last_updated": "2025-08-06T08:00:11.694840"
     },
     {
       "id": "film_117001",
@@ -332,7 +332,7 @@
           "booking_available_until": "2025-08-10*18:20:00"
         }
       ],
-      "last_updated": "2025-08-05T08:00:09.703110"
+      "last_updated": "2025-08-06T08:00:11.694840"
     },
     {
       "id": "film_117612",
@@ -358,7 +358,7 @@
           "booking_available_until": "2025-08-08*15:40:00"
         }
       ],
-      "last_updated": "2025-08-05T08:00:09.703110"
+      "last_updated": "2025-08-06T08:00:11.694840"
     },
     {
       "id": "film_116995",
@@ -390,7 +390,7 @@
           "booking_available_until": "2025-08-10*15:00:00"
         }
       ],
-      "last_updated": "2025-08-05T08:00:09.703110"
+      "last_updated": "2025-08-06T08:00:11.694840"
     },
     {
       "id": "film_115577",
@@ -416,7 +416,7 @@
           "booking_available_until": "2025-08-07*17:00:00"
         }
       ],
-      "last_updated": "2025-08-05T08:00:09.703110"
+      "last_updated": "2025-08-06T08:00:11.694840"
     }
   ]
 }
