@@ -1,8 +1,8 @@
 {
   "cinema": "Broadway Kino Ramstein",
   "location": "Merkurstraße 9, 66877 Ramstein",
-  "last_updated": "2025-08-08T08:00:15.105937",
-  "total_movies": 8,
+  "last_updated": "2025-08-09T08:00:16.936743",
+  "total_movies": 7,
   "movies": [
     {
       "id": "film_117476",
@@ -22,12 +22,6 @@
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_117476X28072025085448.jpg",
       "showtimes": [
         {
-          "date": "2025-08-08",
-          "time": "18:00",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-08-08*18:00:00"
-        },
-        {
           "date": "2025-08-09",
           "time": "18:00",
           "hall": "The New Magic 5",
@@ -36,7 +30,7 @@
         {
           "date": "2025-08-10",
           "time": "18:00",
-          "hall": "The New Magic 3",
+          "hall": "The New Magic 5",
           "booking_available_until": "2025-08-10*18:00:00"
         },
         {
@@ -52,7 +46,7 @@
           "booking_available_until": "2025-08-13*18:00:00"
         }
       ],
-      "last_updated": "2025-08-08T08:00:15.105714"
+      "last_updated": "2025-08-09T08:00:16.936539"
     },
     {
       "id": "film_117009",
@@ -71,12 +65,6 @@
       "cinema_start_date": "2025-08-07",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_117009X13072025103944.jpg",
       "showtimes": [
-        {
-          "date": "2025-08-08",
-          "time": "18:30",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-08-08*18:30:00"
-        },
         {
           "date": "2025-08-09",
           "time": "18:20",
@@ -102,7 +90,7 @@
           "booking_available_until": "2025-08-13*18:30:00"
         }
       ],
-      "last_updated": "2025-08-08T08:00:15.105714"
+      "last_updated": "2025-08-09T08:00:16.936539"
     },
     {
       "id": "film_119204",
@@ -121,12 +109,6 @@
       "cinema_start_date": "2025-07-31",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_119204X10072025100019.jpg",
       "showtimes": [
-        {
-          "date": "2025-08-08",
-          "time": "18:10",
-          "hall": "The New Magic 6",
-          "booking_available_until": "2025-08-08*18:10:00"
-        },
         {
           "date": "2025-08-09",
           "time": "18:10",
@@ -152,7 +134,7 @@
           "booking_available_until": "2025-08-13*18:10:00"
         }
       ],
-      "last_updated": "2025-08-08T08:00:15.105714"
+      "last_updated": "2025-08-09T08:00:16.936539"
     },
     {
       "id": "film_117003",
@@ -171,18 +153,6 @@
       "cinema_start_date": "2025-07-24",
       "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_117003X10072025095906.jpg",
       "showtimes": [
-        {
-          "date": "2025-08-08",
-          "time": "17:40",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-08-08*17:40:00"
-        },
-        {
-          "date": "2025-08-08",
-          "time": "20:30",
-          "hall": "The New Magic 5",
-          "booking_available_until": "2025-08-08*20:30:00"
-        },
         {
           "date": "2025-08-09",
           "time": "16:00",
@@ -226,7 +196,7 @@
           "booking_available_until": "2025-08-13*20:30:00"
         }
       ],
-      "last_updated": "2025-08-08T08:00:15.105714"
+      "last_updated": "2025-08-09T08:00:16.936539"
     },
     {
       "id": "film_116999",
@@ -258,7 +228,7 @@
           "booking_available_until": "2025-08-10*14:30:00"
         }
       ],
-      "last_updated": "2025-08-08T08:00:15.105714"
+      "last_updated": "2025-08-09T08:00:16.936539"
     },
     {
       "id": "film_117001",
@@ -284,33 +254,7 @@
           "booking_available_until": "2025-08-10*18:20:00"
         }
       ],
-      "last_updated": "2025-08-08T08:00:15.105714"
-    },
-    {
-      "id": "film_117612",
-      "title": "Smurfs",
-      "director": "Chris Miller (LX)",
-      "fsk": "G",
-      "runtime": "92",
-      "description": "When Papa Smurf is mysteriously kidnapped by the evil wizards Gargamel and Razamel, the Smurfs face their greatest challenge yet.",
-      "genre_markers": {
-        "original_version": true,
-        "thx": false,
-        "dolby_7_1": false,
-        "3d": false,
-        "4k": false
-      },
-      "cinema_start_date": "2025-07-17",
-      "poster_url": "https://english.broadwaykino.com/images/BIG_RGB/p_117612X15072025183144.jpg",
-      "showtimes": [
-        {
-          "date": "2025-08-08",
-          "time": "15:40",
-          "hall": "Broadway Kino",
-          "booking_available_until": "2025-08-08*15:40:00"
-        }
-      ],
-      "last_updated": "2025-08-08T08:00:15.105714"
+      "last_updated": "2025-08-09T08:00:16.936539"
     },
     {
       "id": "film_116995",
@@ -342,7 +286,7 @@
           "booking_available_until": "2025-08-10*15:00:00"
         }
       ],
-      "last_updated": "2025-08-08T08:00:15.105714"
+      "last_updated": "2025-08-09T08:00:16.936539"
     }
   ]
 }
